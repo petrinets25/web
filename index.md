@@ -19,7 +19,6 @@ The conference will take place at the [Campus Condorcet](https://www.campus-cond
 
 
 
-
 ## Topics specific to Petri Nets
 * Analysis and synthesis, structure and behaviour of nets
 * System design and model-driven development using nets
