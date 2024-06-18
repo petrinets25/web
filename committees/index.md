@@ -10,7 +10,8 @@ hide_footer: true
 TBA
 
 ## Organization Committee
-TBA
+ * [Étienne André](https://lipn.univ-paris13.fr/~andre/) (Université Sorbonne Paris Nord)
+ * [Carlos Olarte](https://sites.google.com/site/carlosolarte)(Université Sorbonne Paris Nord)
 
 ## Program committee co-chairs
 TBA
@@ -28,6 +29,6 @@ TBA
 TBA
 
 ## Programme committee
-TBA
+
 
 
