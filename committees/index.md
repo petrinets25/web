@@ -45,14 +45,14 @@ TBA
   * Michael Köhler-Bußmeier, Germany 
   * Lars Kristensen, Norway 
   * Lisa Mannel, Germany 
-  * {\L}ukasz Mikulski, Poland 
+  * Łukasz Mikulski, Poland 
   * Guillermo Alberto Perez, Belgium 
   * Marta Pietkiewicz-Koutny, UK 
   * Artem Polyvyanyy, Australia 
   * Lucia Pomello, Italy 
   * Andrey Rivkin, Denmark 
   * Natalia Sidorova, The Netherlands 
-  * Ji\v{r}\'i Srba, Denmark 
+  * Jiri Srba, Denmark 
   * Jeremy Sproston, Italy 
   * Nathalie Sznajder, France 
   * Remigiusz Wisniewski, Poland 
