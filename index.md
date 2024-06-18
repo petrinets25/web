@@ -15,6 +15,10 @@ at Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.fr
 [Université Sorbonne Paris Nord](https://www.univ-spn.fr/), France. 
 The conference will take place at the [Campus Condorcet](https://www.campus-condorcet.fr/en).
 
+[![Photo by Anthony DELANOIX](./_includes/img/paris.jpg)](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+
+
+
 
 ## Topics specific to Petri Nets
 * Analysis and synthesis, structure and behaviour of nets
