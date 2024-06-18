@@ -28,7 +28,32 @@ TBA
 ## Petri Net Course and Tutorials co-chairs
 TBA
 
-## Programme committee
+## Program committee
 
-
-
+  * Elvio Amparore, Italy 
+  * Abel Armas Cervantes, Australia 
+  * João Paulo Barros, Portugal 
+  * Benoît Delahaye, France 
+  * João Miguel Fernandes, Portugal 
+  * Guiliana Franceschinis, Italy 
+  * Luis Gomes, Portugal 
+  * Xudong He, USA 
+  * Loïc Helouet, France 
+  * Wojciech Jamroga, Luxemburg 
+  * Gabriel Juhás, Slovakia 
+  * Anna Kalenkova, Australia 
+  * Michael Köhler-Bußmeier, Germany 
+  * Lars Kristensen, Norway 
+  * Lisa Mannel, Germany 
+  * {\L}ukasz Mikulski, Poland 
+  * Guillermo Alberto Perez, Belgium 
+  * Marta Pietkiewicz-Koutny, UK 
+  * Artem Polyvyanyy, Australia 
+  * Lucia Pomello, Italy 
+  * Andrey Rivkin, Denmark 
+  * Natalia Sidorova, The Netherlands 
+  * Ji\v{r}\'i Srba, Denmark 
+  * Jeremy Sproston, Italy 
+  * Nathalie Sznajder, France 
+  * Remigiusz Wisniewski, Poland 
+  * Karsten Wolf, Germany
