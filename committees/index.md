@@ -24,7 +24,8 @@ TBA
 TBA
 
 ## Workshops co-chairs
-TBA
+* Karsten Wolf, Germany
+* TBA
 
 ## Petri Net Course and Tutorials co-chairs
 TBA
