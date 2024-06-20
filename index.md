@@ -69,7 +69,7 @@ _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-f
 * Modelling of hardware and biological systems
 
 
-[<img alt="USPN" src="./img/USPN.png" width="230">](https://www.univ-spn.fr/){:target="_blank"}
+[<img alt="USPN" src="./img/USPN.png" width="270">](https://www.univ-spn.fr/){:target="_blank"}
 [<img alt="LIPN" src="./img/LIPN.png" width="200">](https://lipn.univ-paris13.fr/){:target="_blank"}
-[<img alt="CNRS" src="./img/CNRS.png" width="170">](https://www.cnrs.fr/fr){:target="_blank"}
+[<img alt="CNRS" src="./img/CNRS.png" width="145">](https://www.cnrs.fr/fr){:target="_blank"}
 [<img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" width="200">](https://www.mefosyloma.fr/){:target="_blank"}
