@@ -20,7 +20,7 @@ Paris-Aubervilliers, France.
 
 ![Photo by Anthony DELANOIX](./img/paris.jpg)
 
-_Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)_
+_Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash){:target="_blank"}_
 
 
 
