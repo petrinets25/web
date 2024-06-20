@@ -14,7 +14,8 @@ TBA
  * [Carlos Olarte](https://sites.google.com/site/carlosolarte)(Université Sorbonne Paris Nord)
 
 ## Program committee co-chairs
-TBA
+* Elvio Amparore, Italy
+* Łukasz Mikulski, Poland
 
 ## Organizing chairs
 TBA
@@ -30,7 +31,7 @@ TBA
 
 ## Program committee
 
-  * Elvio Amparore, Italy 
+  * Elvio Amparore, Italy (co-chair)
   * Abel Armas Cervantes, Australia 
   * João Paulo Barros, Portugal 
   * Benoît Delahaye, France 
@@ -45,14 +46,14 @@ TBA
   * Michael Köhler-Bußmeier, Germany 
   * Lars Kristensen, Norway 
   * Lisa Mannel, Germany 
-  * Łukasz Mikulski, Poland 
+  * Łukasz Mikulski, Poland (co-chair)
   * Guillermo Alberto Perez, Belgium 
   * Marta Pietkiewicz-Koutny, UK 
   * Artem Polyvyanyy, Australia 
   * Lucia Pomello, Italy 
   * Andrey Rivkin, Denmark 
   * Natalia Sidorova, The Netherlands 
-  * Jiri Srba, Denmark 
+  * Jiří Srba, Denmark 
   * Jeremy Sproston, Italy 
   * Nathalie Sznajder, France 
   * Remigiusz Wisniewski, Poland 
