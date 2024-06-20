@@ -65,6 +65,6 @@ The conference will take place at the [Campus Condorcet](https://www.campus-cond
 
 
 [<img alt="USPN" src="./img/USPN.png" width="50%">](https://www.univ-spn.fr/){:target="_blank"}
-[<img alt="LIPN" src="./img/LIPN.png">](https://lipn.univ-paris13.fr/){:target="_blank"}
-[<img alt="CNRS" src="./img/CNRS.png">](https://www.cnrs.fr/fr){:target="_blank"}
-[<img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png">](https://www.mefosyloma.fr/){:target="_blank"}
+[<img alt="LIPN" src="./img/LIPN.png" width="90%">](https://lipn.univ-paris13.fr/){:target="_blank"}
+[<img alt="CNRS" src="./img/CNRS.png" width="70%">](https://www.cnrs.fr/fr){:target="_blank"}
+[<img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" width="130%">](https://www.mefosyloma.fr/){:target="_blank"}
