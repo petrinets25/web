@@ -64,7 +64,7 @@ The conference will take place at the [Campus Condorcet](https://www.campus-cond
 * Modelling of hardware and biological systems
 
 
-[<img alt="USPN" src="./img/USPN.png">](https://www.univ-spn.fr/)
+[<img alt="USPN" src="./img/USPN.png" width=90%>](https://www.univ-spn.fr/)
 [<img alt="LIPN" src="./img/LIPN.png">](https://lipn.univ-paris13.fr/)
 [<img alt="CNRS" src="./img/CNRS.png">](https://www.cnrs.fr/fr)
 [<img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png">](https://www.mefosyloma.fr/)
