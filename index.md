@@ -10,12 +10,17 @@ hide_footer: false
 
 ## Welcome 
 The 46th International Conference on Theory and Application of Petri Nets and
-Concurrency conference will be organized by the [Verification Team](https://lipn.univ-paris13.fr/love/)
+Concurrency conference will be organized by the [LoVe](https://lipn.univ-paris13.fr/love/) team 
 at Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.fr/)),
-[Université Sorbonne Paris Nord](https://www.univ-spn.fr/), France. 
-The conference will take place at the [Campus Condorcet](https://www.campus-condorcet.fr/en).
+[Université Sorbonne Paris Nord](https://www.univ-spn.fr/)
+jointly
+with members of the [MeFoSyLoMa](https://www.mefosyloma.fr) group. 
+The conference will take place at the [Campus Condorcet](https://www.campus-condorcet.fr/en),
+Paris-Aubervilliers, France. 
 
-[![Photo by Anthony DELANOIX](./img/paris.jpg)](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+![Photo by Anthony DELANOIX](./img/paris.jpg)
+
+_Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)_
 
 
 
