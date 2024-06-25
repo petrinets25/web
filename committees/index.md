@@ -48,6 +48,7 @@ TBA
   * Lars Kristensen, Norway 
   * Lisa Mannel, Germany 
   * Łukasz Mikulski, Poland (co-chair)
+  * Andrew Miner, USA
   * Guillermo Alberto Perez, Belgium 
   * Marta Pietkiewicz-Koutny, UK 
   * Artem Polyvyanyy, Australia 
