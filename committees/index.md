@@ -6,7 +6,17 @@ show_sidebar: false
 hide_footer: true
 ---
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 0px ;
+        }
+</style>
+
 ## Steering committee
+
+É. André, France | J. Barros, Portugal
+I. Brito, Portugal | D. Buchs, Switzerland
+
 
 * É. André, France
 * J. Barros, Portugal
@@ -22,7 +32,7 @@ hide_footer: true
 * J. Kleijn, The Netherlands
 * F. Kordon, France (co-chair)
 * M. Koutny, UK
-* L. M.\ Kristensen, Norway
+* L. M. Kristensen, Norway
 * C. Lin, China
 * L. Mikulski, Poland
 * C. Olarte, France
