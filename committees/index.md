@@ -6,45 +6,49 @@ show_sidebar: false
 hide_footer: true
 ---
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 0px ;
-        }
-</style>
-
 ## Steering committee
 
-É. André, France | J. Barros, Portugal
-I. Brito, Portugal | D. Buchs, Switzerland
-
-
-* É. André, France
-* J. Barros, Portugal
-* I. Brito, Portugal
-* D. Buchs, Switzerland
-* G. Ciardo, USA
-* A. Costa, Portugal
-* J. Desel, Germany
-* S. Donatelli, Italy
-* L. Gomes, France
-* S. Haddad, France
-* K. Hiraishi, Japan
-* J. Kleijn, The Netherlands
-* F. Kordon, France (co-chair)
-* M. Koutny, UK
-* L. M. Kristensen, Norway
-* C. Lin, China
-* L. Mikulski, Poland
-* C. Olarte, France
-* W. Penczek, Poland
-* L. Petrucci, France (co-chair)
-* L. Pomello, Italy
-* W. Reisig, Germany
-* G. Rozenberg, The Netherlands
-* A. Valmari, Finland
-* J. van der Werf, The Netherlands
-* K. Wolf, Germany
-* A. Yakovlev, UK
+<table border="1">
+    <tr>
+        <td>
+            <ul>
+             <li> É. André, France
+             <li> J. Barros, Portugal
+             <li> I. Brito, Portugal
+             <li> D. Buchs, Switzerland
+             <li> G. Ciardo, USA
+             <li> A. Costa, Portugal
+             <li> J. Desel, Germany
+             <li> S. Donatelli, Italy
+             <li> L. Gomes, France
+             <li> S. Haddad, France
+             <li> K. Hiraishi, Japan
+             <li> J. Kleijn, The Netherlands
+             <li> F. Kordon, France (co-chair)
+             <li> M. Koutny, UK
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                 <li> L. M. Kristensen, Norway
+                 <li> C. Lin, China
+                 <li> L. Mikulski, Poland
+                 <li> C. Olarte, France
+                 <li> W. Penczek, Poland
+                 <li> L. Petrucci, France (co-chair)
+                 <li> L. Pomello, Italy
+                 <li> W. Reisig, Germany
+                 <li> G. Rozenberg, The Netherlands
+                 <li> A. Valmari, Finland
+                 <li> J. van der Werf, The Netherlands
+                 <li> K. Wolf, Germany
+                 <li> A. Yakovlev, UK
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 ## Organization Committee
