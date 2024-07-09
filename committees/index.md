@@ -30,6 +30,7 @@ hide_footer: true
         </td>
         <td>
             <ul>
+
                  <li> L. M. Kristensen, Norway
                  <li> C. Lin, China
                  <li> L. Mikulski, Poland
@@ -43,6 +44,7 @@ hide_footer: true
                  <li> J. van der Werf, The Netherlands
                  <li> K. Wolf, Germany
                  <li> A. Yakovlev, UK
+
             </ul>
         </td>
     </tr>
