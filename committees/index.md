@@ -7,7 +7,35 @@ hide_footer: true
 ---
 
 ## Steering committee
-TBA
+
+É. André, France
+J. Barros, Portugal
+I. Brito, Portugal
+D. Buchs, Switzerland
+G. Ciardo, USA
+A. Costa, Portugal
+J. Desel, Germany
+S. Donatelli, Italy
+L. Gomes, France
+S. Haddad, France
+K. Hiraishi, Japan
+J. Kleijn, The Netherlands
+F. Kordon, France (co-chair)
+M. Koutny, UK
+L. M.\ Kristensen, Norway
+C. Lin, China
+L. Mikulski, Poland
+C. Olarte, France
+W. Penczek, Poland
+L. Petrucci, France (co-chair)
+L. Pomello, Italy
+W. Reisig, Germany
+G. Rozenberg, The Netherlands
+A. Valmari, Finland
+J. van der Werf, The Netherlands
+K. Wolf, Germany
+A. Yakovlev, UK
+
 
 ## Organization Committee
  * [Étienne André](https://lipn.univ-paris13.fr/~andre/) (Université Sorbonne Paris Nord)
