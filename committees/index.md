@@ -12,24 +12,22 @@ hide_footer: true
     <tr>
         <td>
             <ul>
-             <li> É. André, France
-             <li> J. Barros, Portugal
-             <li> I. Brito, Portugal
-             <li> D. Buchs, Switzerland
-             <li> G. Ciardo, USA
-             <li> A. Costa, Portugal
-             <li> J. Desel, Germany
-             <li> S. Donatelli, Italy
-             <li> L. Gomes, France
-             <li> S. Haddad, France
-             <li> K. Hiraishi, Japan
-             <li> J. Kleijn, The Netherlands
-             <li> F. Kordon, France (co-chair)
-             <li> M. Koutny, UK
+                 <li> É. André, France
+                 <li> J. Barros, Portugal
+                 <li> I. Brito, Portugal
+                 <li> D. Buchs, Switzerland
+                 <li> G. Ciardo, USA
+                 <li> A. Costa, Portugal
+                 <li> J. Desel, Germany
+                 <li> S. Donatelli, Italy
+                 <li> L. Gomes, France
+                 <li> S. Haddad, France
+                 <li> K. Hiraishi, Japan
+                 <li> J. Kleijn, The Netherlands
+                 <li> F. Kordon, France (co-chair)
+                 <li> M. Koutny, UK
             </ul>
         </td>
-    </tr>
-    <tr>
         <td>
             <ul>
                  <li> L. M. Kristensen, Norway
