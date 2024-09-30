@@ -18,11 +18,4 @@ hide_footer: true
 | Main conference   | __25-27 June 2025__        |
 
 
-* Abstract submission: 15 January 2025
-* Paper submission: 22 January 2025
-* Notification: 10 March 2025
-* Notification: 24 March 2025
-* Workshops and tutorials: 23-24 June 2025
-* Main conference: 25-27 June 2025
-
 _All dates [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth "anywhere on Earth")_
