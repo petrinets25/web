@@ -8,4 +8,4 @@ hide_footer: true
 
 ## Call for Papers
 
-TBA
+Preliminary version available [here](../files/cfp-2025.pdf).

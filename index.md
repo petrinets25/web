@@ -10,12 +10,17 @@ hide_footer: false
 
 ## Welcome 
 The 46th International Conference on Theory and Application of Petri Nets and
-Concurrency conference will be organized by the [Verification Team](https://lipn.univ-paris13.fr/love/)
+Concurrency conference will be organized by the [LoVe](https://lipn.univ-paris13.fr/love/) team 
 at Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.fr/)),
-[Université Sorbonne Paris Nord](https://www.univ-spn.fr/), France. 
-The conference will take place at the [Campus Condorcet](https://www.campus-condorcet.fr/en).
+[Université Sorbonne Paris Nord](https://www.univ-spn.fr/)
+jointly
+with members of the [MeFoSyLoMa](https://www.mefosyloma.fr) group. 
+The conference will take place at the [Campus Condorcet](https://www.campus-condorcet.fr/en),
+Paris-Aubervilliers, France. 
 
-[![Photo by Anthony DELANOIX](./img/paris.jpg)](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+![Photo by Anthony DELANOIX](./img/paris.jpg)
+
+_Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash){:target="_blank"}_
 
 
 
@@ -64,4 +69,7 @@ The conference will take place at the [Campus Condorcet](https://www.campus-cond
 * Modelling of hardware and biological systems
 
 
-<img alt="USPN" src="./img/USPN.png">
+[<img alt="USPN" src="./img/USPN.png" width="270">](https://www.univ-spn.fr/){:target="_blank"}
+[<img alt="LIPN" src="./img/LIPN.png" width="200">](https://lipn.univ-paris13.fr/){:target="_blank"}
+[<img alt="CNRS" src="./img/CNRS.png" width="145">](https://www.cnrs.fr/fr){:target="_blank"}
+[<img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" width="200">](https://www.mefosyloma.fr/){:target="_blank"}
