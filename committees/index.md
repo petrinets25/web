@@ -54,10 +54,10 @@ TBA
 
 ## Workshops co-chairs
 * Karsten Wolf, Germany
-* TBA
+* Giuliana Franceschinis, Italy
 
 ## Petri Net Course and Tutorials co-chairs
-TBA
+* 
 
 ## Program committee
 
