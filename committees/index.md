@@ -40,7 +40,7 @@ hide_footer: true
 
 ## Organization Committee
  * [Étienne André](https://lipn.univ-paris13.fr/~andre/) (Université Sorbonne Paris Nord)
- * [Carlos Olarte](https://sites.google.com/site/carlosolarte)(Université Sorbonne Paris Nord)
+ * [Carlos Olarte](https://sites.google.com/site/carlosolarte) (Université Sorbonne Paris Nord)
 
 ## Program committee co-chairs
 * Elvio Amparore, Italy
