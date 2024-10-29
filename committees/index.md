@@ -46,18 +46,16 @@ hide_footer: true
 * Elvio Amparore, Italy
 * Łukasz Mikulski, Poland
 
-## Organizing chairs
-TBA
-
 ## Tool exhibition chairs
 TBA
 
 ## Workshops co-chairs
-* Karsten Wolf, Germany
 * Giuliana Franceschinis, Italy
+* Karsten Wolf, Germany
 
 ## Petri Net Course and Tutorials co-chairs
-* 
+* Jörg Desel, Germany
+* Lars Kristensen, Norway 
 
 ## Program committee
 
