@@ -1,5 +1,7 @@
 - name: Committees
   link: committees
+- name: Invited speakers
+  link: speakers
 - name: CFP
   link: cfp
 - name: Important dates
