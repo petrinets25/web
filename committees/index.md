@@ -19,7 +19,6 @@ hide_footer: true
 * L. Gomes, France
 * S. Haddad, France
 * K. Hiraishi, Japan
-* J. Kleijn, The Netherlands
 * F. Kordon, France (co-chair)
 * M. Koutny, UK
 * L. M. Kristensen, Norway
@@ -29,8 +28,6 @@ hide_footer: true
 * W. Penczek, Poland
 * L. Petrucci, France (co-chair)
 * L. Pomello, Italy
-* W. Reisig, Germany
-* G. Rozenberg, The Netherlands
 * A. Valmari, Finland
 * J. van der Werf, The Netherlands
 * K. Wolf, Germany
