@@ -68,6 +68,12 @@ _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-f
 * New developments in the theory of concurrency
 * Modelling of hardware and biological systems
 
+## Poster
+
+![Poster Petri Nets 2025 (Paris)](./poster/poster-PN25.png)
+
+## Sponsors
+
 
 [<img alt="USPN" src="./img/USPN.png" width="270">](https://www.univ-spn.fr/){:target="_blank"}
 [<img alt="LIPN" src="./img/LIPN.png" width="200">](https://lipn.univ-paris13.fr/){:target="_blank"}
