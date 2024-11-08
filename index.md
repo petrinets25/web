@@ -72,6 +72,8 @@ _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-f
 
 ![Poster Petri Nets 2025 (Paris)](./poster/poster-PN25.png)
 
+Download in formats: [PNG](./poster/poster-PN25.png) / [PDF](./poster/poster-PN25.pdf) / [PDF (high resolution)](./poster/poster-PN25-highres.pdf)
+
 ## Sponsors
 
 
