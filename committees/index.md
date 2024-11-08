@@ -40,8 +40,8 @@ hide_footer: true
  * [Carlos Olarte](https://sites.google.com/site/carlosolarte) (Université Sorbonne Paris Nord)
 
 ## Program committee co-chairs
-* Elvio Amparore, Italy
-* Łukasz Mikulski, Poland
+* [Elvio Amparore](https://informatica.unito.it/persone/elviogilberto.amparore), Italy
+* [Łukasz Mikulski](https://ipipan.waw.pl/en/institute/employees/lukasz-mikulski), Poland
 
 ## Tool exhibition chairs
 TBA
