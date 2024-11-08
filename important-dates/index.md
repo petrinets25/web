@@ -14,7 +14,8 @@ hide_footer: true
 | Paper submission   | __22 January 2025__        |
 | Notification   | 10 March 2025        |
 | Camera ready   | 24 March 2025        |
-| Workshops and tutorials   | 23-24 June 2025        |
+| PNSE Workshop  | 23-24 June 2025        |
+| Tutorials   | 23-24 June 2025        |
 | Main conference   | __25-27 June 2025__        |
 
 
