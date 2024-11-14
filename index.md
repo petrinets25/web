@@ -76,8 +76,9 @@ Download in formats: [PNG](./poster/poster-PN25.png) / [PDF](./poster/poster-PN2
 
 ## Sponsors
 
-
-[<img alt="USPN" src="./img/USPN.png" width="270">](https://www.univ-spn.fr/){:target="_blank"}
-[<img alt="LIPN" src="./img/LIPN.png" width="200">](https://lipn.univ-paris13.fr/){:target="_blank"}
-[<img alt="CNRS" src="./img/CNRS.png" width="145">](https://www.cnrs.fr/fr){:target="_blank"}
-[<img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" width="200">](https://www.mefosyloma.fr/){:target="_blank"}
+<div class="image-row">
+    <a href="https://www.univ-spn.fr/" target="_blank"><img alt="USPN" src="./img/USPN.png" width="270"></a>
+    <a href="https://lipn.univ-paris13.fr/" target="_blank"><img alt="LIPN" src="./img/LIPN.png" width="200"></a>
+    <a href="https://www.cnrs.fr/fr" target="_blank"><img alt="CNRS" src="./img/CNRS.png" width="145"></a>
+    <a href="https://www.mefosyloma.fr/" target="_blank"><img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" width="200"></a>
+</div>
