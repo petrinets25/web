@@ -2,7 +2,7 @@
 layout: page
 title: Committees
 toc: false
-show_sidebar: true
+show_sidebar: false
 hide_footer: true
 ---
 
@@ -46,12 +46,12 @@ General topics of interest related to concurrency
 
 Papers presenting original research on application or theory of Petri nets, as well as contributions addressing topics relevant to the general field of  distributed and concurrent systems or focused on applications of concurrency to system design are sought.
 
-The language of the conference is English, and its proceedings will be published by Springer-Verlag in Lecture Notes in Computer Science.
+The language of the conference is English, and its proceedings will be published by Springer-Verlag in [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
 
 All accepted papers will be considered for an Outstanding Paper award. Authors of selected papers presented at the conference will be invited to submit an extended version that will be further reviewed for inclusion into a special issue of a renowned journal.
 
 ### Paper Submission
-* Regular papers (max. 20 pages in the LNCS format excluding references) describing original results pertaining to the development of the theory of Petri nets and distributed and concurrent systems in general, new results extending the applicability of Petri nets, or case studies, application and experience reports pertinent to the practical use of Petri nets and concurrency.
+* Regular papers (max. 20 pages in the [LNCS](https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings) format excluding references) describing original results pertaining to the development of the theory of Petri nets and distributed and concurrent systems in general, new results extending the applicability of Petri nets, or case studies, application and experience reports pertinent to the practical use of Petri nets and concurrency.
 * Tool papers (max. 10 pages excluding references) describing a computer tool based on Petri nets (not an application of the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The submission should indicate how the reviewers can get access to the tool (this must be for free). The tool will be demonstrated in the Tool Exhibition, in addition to being presented in a conference talk.
 
 Papers must be written in English using the Springer LNCS format: including line numbers (e.g., using the "lineno" LaTeX package) and submitted electronically (as a PDF file) by the deadline using [EasyChair](https://easychair.org/conferences/?conf=petrinets2025).
