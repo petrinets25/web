@@ -90,7 +90,7 @@ issue of a renowned journal.
 
 
 ## Tool Exhibition
-An exhibition of Petri net tools will take place on Wednesday. It consists of informal demonstrations for small groups/individuals and there are no scheduled talks. Requests for participation in the tool exhibition must be sent to the Tool Exhibition chairs by the deadline stated at the top of this Call for Papers. They should include a link to the Web pages for the tool (or a short description of the tool). The demonstrators should bring their own laptops, while the organisers may be requested to give access to the Internet.
+An exhibition of Petri net tools will take place on Wednesday June 25. It consists of informal demonstrations for small groups/individuals and there are no scheduled talks. Requests for participation in the tool exhibition must be sent to the Tool Exhibition chairs by the deadline stated at the top of this Call for Papers. They should include a link to the Web pages for the tool (or a short description of the tool). The demonstrators should bring their own laptops, while the organisers may be requested to give access to the Internet.
 
 ## Courses, Workshops and Tutorials
 
