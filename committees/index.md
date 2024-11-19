@@ -54,6 +54,9 @@ TBA
 * Jörg Desel, Germany
 * Lars Kristensen, Norway 
 
+## Publicity chair
+* [Benoît Barbot](https://lacl.fr/~barbot/), France
+
 ## Program committee
 
   * Elvio Amparore, Italy (co-chair)
