@@ -10,17 +10,47 @@ hide_footer: true
 
 Preliminary version available [here](../files/cfp-2025.pdf) in PDF.
 
-### Format
+### Paper Submission
+
+Petri Nets 2025 solicits high quality papers reporting research results and/or
+tools related to the topics mentioned below.
 
 | Paper      | Format |
 | ----------- | ----------- |
 | Regular papers      | 20 pages excluding references |
-| Short papers      | 10 pages excluding references |
+| Tool papers      | 10 pages excluding references |
 
-Papers must be written in English using the [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings), including line numbers (e.g., [lineno](https://ctan.org/pkg/lineno) LaTeX package) and submitted electronically (as a PDF file).
+* Regular papers must describe original results pertaining to the development
+  of the theory of Petri nets and distributed and concurrent systems in
+  general, new results extending the applicability of Petri nets, or case
+  studies, application and experience reports pertinent to the practical use of
+  Petri nets and concurrency.
+
+* Tool papers must describe a computer tool based on Petri nets (not an
+  application of the tool or the theory behind the tool). The tool should be
+  available for use by other groups (but not necessarily for free). The
+  submission should indicate how the reviewers can get access to the tool (this
+  must be for free). The tool will be demonstrated in the Tool Exhibition, in
+  addition to being presented in a conference talk.
 
 
-## Call for papers
+All papers must be original, unpublished, and not submitted for publication elsewhere.
+Papers must be written in English using the [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings),
+including line numbers (e.g., [lineno](https://ctan.org/pkg/lineno) LaTeX
+package) and submitted electronically (as a PDF file) by the deadline using
+[EasyChair](https://easychair.org/conferences/?conf=petrinets2025).
+
+## Important Dates
+
+* Abstract submission: January 15, 2025 (AoE)
+* Submission of papers : January 22, 2025 (AoE)
+* Notification: March 10, 2025
+* Final version due: March 24, 2025
+* Participation in Tool Exhibition: May 30, 2025
+* Workshops and Tutorials: June 23–24, 2025
+* Main Conference: June 25–27, 2025
+
+## Topics of Interest
 
 Topics specific to Petri Nets
 * Analysis and synthesis, structure and behavior of nets
@@ -44,17 +74,20 @@ General topics of interest related to concurrency
 * New developments in the theory of concurrency
 * Modeling of hardware and biological systems
 
-Papers presenting original research on application or theory of Petri nets, as well as contributions addressing topics relevant to the general field of  distributed and concurrent systems or focused on applications of concurrency to system design are sought.
+Papers presenting original research on application or theory of Petri nets, as
+well as contributions addressing topics relevant to the general field of
+distributed and concurrent systems or focused on applications of concurrency to
+system design are sought.
 
-The language of the conference is English, and its proceedings will be published by Springer-Verlag in [Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs).
+The language of the conference is English, and its proceedings will be
+published by Springer-Verlag in [Lecture Notes in Computer
+Science](https://www.springer.com/gp/computer-science/lncs).
 
-All accepted papers will be considered for an Outstanding Paper award. Authors of selected papers presented at the conference will be invited to submit an extended version that will be further reviewed for inclusion into a special issue of a renowned journal.
+All accepted papers will be considered for an Outstanding Paper award. Authors
+of selected papers presented at the conference will be invited to submit an
+extended version that will be further reviewed for inclusion into a special
+issue of a renowned journal.
 
-### Paper Submission
-* Regular papers (max. 20 pages in the [LNCS](https://www.springer.com/gp/computer-science/lncs/editor-guidelines-for-springer-proceedings) format excluding references) describing original results pertaining to the development of the theory of Petri nets and distributed and concurrent systems in general, new results extending the applicability of Petri nets, or case studies, application and experience reports pertinent to the practical use of Petri nets and concurrency.
-* Tool papers (max. 10 pages excluding references) describing a computer tool based on Petri nets (not an application of the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The submission should indicate how the reviewers can get access to the tool (this must be for free). The tool will be demonstrated in the Tool Exhibition, in addition to being presented in a conference talk.
-
-Papers must be written in English using the Springer LNCS format: including line numbers (e.g., using the "lineno" LaTeX package) and submitted electronically (as a PDF file) by the deadline using [EasyChair](https://easychair.org/conferences/?conf=petrinets2025).
 
 ## Tool Exhibition
 An exhibition of Petri net tools will take place on Wednesday. It consists of informal demonstrations for small groups/individuals and there are no scheduled talks. Requests for participation in the tool exhibition must be sent to the Tool Exhibition chairs by the deadline stated at the top of this Call for Papers. They should include a link to the Web pages for the tool (or a short description of the tool). The demonstrators should bring their own laptops, while the organisers may be requested to give access to the Internet.
