@@ -17,8 +17,8 @@ tools related to the topics mentioned below.
 
 | Paper      | Format |
 | ----------- | ----------- |
-| Regular papers      | 20 pages excluding references |
-| Tool papers      | 10 pages excluding references |
+| Regular papers      | 20 pages LNCS excluding references |
+| Tool papers      | 10 pages LNCS excluding references |
 
 * Regular papers must describe original results pertaining to the development
   of the theory of Petri nets and distributed and concurrent systems in
