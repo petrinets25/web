@@ -10,6 +10,8 @@ hide_footer: true
 
 Preliminary version available [here](../files/cfp-2025.pdf) in PDF.
 
+Full text version of the CfP available [here](cfp.txt).
+
 ### Paper Submission
 
 Petri Nets 2025 solicits high quality papers reporting research results and/or
