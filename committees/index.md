@@ -16,7 +16,7 @@ hide_footer: true
 * A. Costa, Portugal
 * J. Desel, Germany
 * S. Donatelli, Italy
-* L. Gomes, France
+* L. Gomes, Portugal
 * S. Haddad, France
 * K. Hiraishi, Japan
 * F. Kordon, France (co-chair)
