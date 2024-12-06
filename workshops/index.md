@@ -10,3 +10,6 @@ hide_footer: true
 
 International Workshop on Petri Nets and Software Engineering. *June 23-24*, 2025
 
+## [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/)
+
+Algorithms &amp; Theories for the Analysis of Event Data 2025. *June 24*, 2025
