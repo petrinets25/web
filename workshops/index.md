@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshop
+title: Workshops associated to Petri Nets 2025
 toc: false
 show_sidebar: false
 hide_footer: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Committees
+title: Call for papers
 toc: false
 show_sidebar: false
 hide_footer: true
