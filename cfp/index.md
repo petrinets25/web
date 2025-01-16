@@ -44,13 +44,17 @@ package) and submitted electronically (as a PDF file) by the deadline using
 
 ## Important Dates
 
-* Abstract submission: January 15, 2025 (AoE)
-* Submission of papers : January 22, 2025 (AoE)
-* Notification: March 10, 2025
-* Final version due: March 24, 2025
-* Participation in Tool Exhibition: May 30, 2025
-* Workshops and Tutorials: June 23–24, 2025
-* Main Conference: June 25–27, 2025
+| Nature      | Date |
+| ----------- | ----------- |
+| Abstract submission      | ~~15 January 2025~~  22 January 2025     |
+| Paper submission   | ~~22 January 2025~~ __29 January 2025__        |
+| Notification   | 10 March 2025        |
+| Camera ready   | 24 March 2025        |
+| PNSE Workshop  | 23-24 June 2025        |
+| ATAED Workshop  | 24 June 2025        |
+| Tutorials   | 23-24 June 2025        |
+| Main conference   | __25-27 June 2025__        |
+
 
 ## Topics of Interest
 
