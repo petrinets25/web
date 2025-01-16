@@ -6,6 +6,7 @@ PETRI NETS 2025
 46th international conference on application and theory of Petri nets and
 concurrency
 ============================================================
+*** DEADLINE EXTENSION ***
 
 Paris, France
 23-27 June 2025
@@ -35,8 +36,8 @@ package) and submitted electronically (as a PDF file) by the deadline using
 EasyChair(https://easychair.org/conferences/?conf=petrinets2025).
 
 ## Important dates
-Abstract submission             : 15 January 2025
-Submission of papers            : 22 January 2025
+EXTENDED abstract submission    : 15 January 2025 => 22 January 2025
+EXTENDED aubmission of papers   : 22 January 2025 => 29 January 2025
 Notification                    : 10 March 2025
 Final version due               : 24 March 2025
 Participation in tool exhibition: 30 May 2025

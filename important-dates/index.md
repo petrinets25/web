@@ -10,8 +10,8 @@ hide_footer: true
 
 | Nature      | Date |
 | ----------- | ----------- |
-| Abstract submission      | 15 January 2025       |
-| Paper submission   | __22 January 2025__        |
+| Abstract submission      | ~~15 January 2025~~  22 January 2025     |
+| Paper submission   | ~~22 January 2025~~ __29 January 2025__        |
 | Notification   | 10 March 2025        |
 | Camera ready   | 24 March 2025        |
 | PNSE Workshop  | 23-24 June 2025        |
