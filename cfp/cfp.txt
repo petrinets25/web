@@ -36,7 +36,7 @@ package) and submitted electronically (as a PDF file) by the deadline using
 EasyChair(https://easychair.org/conferences/?conf=petrinets2025).
 
 ## Important dates
-EXTENDED abstract submission    : 15 January 2025 => 22 January 2025
+EXTENDED abstract submission    : 15 January 2025 => 29 January 2025
 EXTENDED aubmission of papers   : 22 January 2025 => 29 January 2025
 Notification                    : 10 March 2025
 Final version due               : 24 March 2025
