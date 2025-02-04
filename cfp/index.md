@@ -48,8 +48,8 @@ package) and submitted electronically (as a PDF file) by the deadline using
 | ----------- | ----------- |
 | Abstract submission      | ~~15 January 2025~~  29 January 2025     |
 | Paper submission   | ~~22 January 2025~~ __29 January 2025__        |
-| Notification   | 10 March 2025        |
-| Camera ready   | 24 March 2025        |
+| Notification   | ~~10 March 2025~~ 16 March 2025       |
+| Camera ready   | ~~24 March 2025~~ 30 March 2025        |
 | PNSE Workshop  | 23-24 June 2025        |
 | ATAED Workshop  | 24 June 2025        |
 | Tutorials   | 23-24 June 2025        |
