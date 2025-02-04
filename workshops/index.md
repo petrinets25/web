@@ -13,3 +13,7 @@ International Workshop on Petri Nets and Software Engineering. *June 23-24*, 202
 ## [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/)
 
 Algorithms &amp; Theories for the Analysis of Event Data 2025. *June 24*, 2025
+
+## [Model Checking Contest 2025](https://mcc.lip6.fr/)
+
+An event dedicated to the evaluation of model checking tools using Petri Net benchmarks.
