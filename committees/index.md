@@ -8,6 +8,7 @@ hide_footer: true
 
 ## Steering committee
 
+* W. van der Aalst, Germany
 * É. André, France
 * J. Barros, Portugal
 * I. Brito, Portugal
