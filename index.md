@@ -8,10 +8,6 @@ hide_footer: false
 
 # Petri Nets 2025
 
-## Deadline extension
-Abstract submission deadline and paper submission deadline are extended by 7 days.
-See [important dates](important-dates).
-
 ## Welcome 
 The 46th International Conference on Theory and Application of Petri Nets and
 Concurrency conference will be organized by the [LoVe](https://lipn.univ-paris13.fr/love/) team 
