@@ -9,14 +9,14 @@ hide_footer: false
 # Petri Nets 2025
 
 ## Welcome 
-The 46th International Conference on Theory and Application of Petri Nets and
-Concurrency conference will be organized by the [LoVe](https://lipn.univ-paris13.fr/love/) team 
+The **46th International Conference on Theory and Application of Petri Nets and
+Concurrency** (Petri Nets 2025) is organized by the [LoVe](https://lipn.univ-paris13.fr/love/) team 
 from Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.fr/)),
 [Université Sorbonne Paris Nord](https://www.univ-spn.fr/)
 jointly
 with members of the [MeFoSyLoMa](https://www.mefosyloma.fr) group. 
 
-The conference will take place at the [Campus Condorcet](https://www.campus-condorcet.fr/en),
+The conference takes place at the [Campus Condorcet](https://www.campus-condorcet.fr/en),
 Paris-Aubervilliers, France ([métro line 12](https://en.wikipedia.org/wiki/Front_Populaire_station)). 
 
 ![Photo by Anthony DELANOIX](./img/paris.jpg)
@@ -26,16 +26,16 @@ _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-f
 
 
 ## Topics specific to Petri Nets
-* Analysis and synthesis, structure and behaviour of nets
+* Analysis and synthesis, structure and behavior of nets
 * System design and model-driven development using nets
 * Relationships between Petri nets and other approaches
 * Net-based semantical, logical and algebraic calculi
-* Higher-level net models (e.g, coloured nets, timed nets)
+* Higher-level net models (e.g, colored nets, timed nets)
 * Stochastic net models
 * Verification and model checking using nets
 * Process discovery and conformance checking
 * Computer tools for nets
-* Standardisation of nets
+* Standardization of nets
 * Experience reports describing applications of nets to different kinds of systems and application fields, e.g.:
     * flexible manufacturing systems
     * office automation
@@ -60,14 +60,14 @@ _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-f
 
 ## General topics of interest related to concurrency
 * Application of concurrency to system design:
-    * formal models (e.g., dataflow models, communicating automata, process algebras, modal and temporal logics) for designing computer systems with concurrent behaviour
+    * formal models (e.g., dataflow models, communicating automata, process algebras, modal and temporal logics) for designing computer systems with concurrent behavior
     * applied research aimed at designing computer systems which exhibit concurrency
 * Model checking and verification of distributed systems
 * Verification of infinite-state or parametric systems
 * Causality/partial order theory of concurrency
 * Educational issues related to concurrency
 * New developments in the theory of concurrency
-* Modelling of hardware and biological systems
+* Modeling of hardware and biological systems
 
 ## Poster
 
