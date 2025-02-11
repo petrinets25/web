@@ -10,7 +10,7 @@ hide_footer: false
 
 ## Welcome 
 The **46th International Conference on Theory and Application of Petri Nets and
-Concurrency** (Petri Nets 2025) is organized by the [LoVe](https://lipn.univ-paris13.fr/love/) team 
+Concurrency** (Petri Nets 2025) is organized by the [SAFER](https://lipn.univ-paris13.fr/safer-2/) team 
 from Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.fr/)),
 [Université Sorbonne Paris Nord](https://www.univ-spn.fr/)
 jointly
