@@ -20,7 +20,7 @@ An event dedicated to the evaluation of model checking tools using Petri Net ben
 
 ## [PeNGE](ttps://www.fernuni-hagen.de/penge/penge2025/)
 
-__Application and Theory of Petri Nets and Concurrency__
+__Petri Net games, examples and quizzes for education, contest and fun__
 
 The workshop aims to attract short papers that present examples for the use of
 Petri nets for elegant modeling, analysis or problem solving. The examples
