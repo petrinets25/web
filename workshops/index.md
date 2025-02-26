@@ -18,7 +18,7 @@ __Algorithms &amp; Theories for the Analysis of Event Data 2025__. *June 24*, 20
 
 An event dedicated to the evaluation of model checking tools using Petri Net benchmarks.
 
-## [PeNGE](ttps://www.fernuni-hagen.de/penge/penge2025/)
+## [PeNGE](https://www.fernuni-hagen.de/penge/penge2025/)
 
 __Petri Net games, examples and quizzes for education, contest and fun__
 
