@@ -59,5 +59,9 @@ After registering, please send your supporting documents to the local organizing
 
 **here: registration link (coming soon)**
 
+
+### Visa
+If you need a letter to support your visa application, please contact the local organization chairs.
+
 ### Contact
 For any issue with registration, contact the local organization chairs (pn2025@petrinet.net).
