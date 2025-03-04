@@ -18,9 +18,10 @@ hide_footer: true
 | Authors registration deadline           | __13 April 2025__     |
 | Public early bird registration deadline | __15 May 2025__       |
 | Public late registration deadline (registrations may be closed after) | __8 June 2025__     |
+| Tutorials   | 23-24 June 2025        |
 | PNSE Workshop  | 23-24 June 2025          |
 | ATAED Workshop  | 24 June 2025        |
-| Tutorials   | 23-24 June 2025        |
+| PeNGE Workshop  | 24 June 2025        |
 | Main conference   | 25-27 June 2025        |
 
 ### Registration fees
