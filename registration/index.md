@@ -52,12 +52,8 @@ After registering, please send your supporting documents to the local organizing
 
 #### Extras
 
-* extra banquet ticket: **TODO**
+* extra banquet ticket: 90€
 
-
-### Refund policy
-
-**(coming soon)**
 
 ### Register now
 
