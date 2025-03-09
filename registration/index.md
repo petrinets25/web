@@ -24,6 +24,8 @@ hide_footer: true
 | PeNGE Workshop  | 24 June 2025        |
 | Main conference   | 25-27 June 2025        |
 
+*Every accepted paper requires at least one regular (non-student) registration.*
+
 ### Registration fees
 
 
