@@ -40,7 +40,7 @@ hide_footer: true
   (Thursday evening). This applies to student registrations as well.
 * The Petri Nets conference gives access to all lunches and coffee breaks
   from June 25 to June 27.
-* The 2-days workshop registration gives access to all lunches and
+* The 2-days workshop registration gives access to lunches and
   coffee breaks on June 23 and June 24. 
 * The 1-day workshop registration gives access to the lunch and
   coffee breaks on Jun 24. 
