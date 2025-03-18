@@ -11,9 +11,32 @@ hide_footer: true
 ***🚧 This page is still under construction; please stay tuned! 🚧***
 
 
-## List of accepted papers
+## List of accepted papers (in no particular order)
 
-Coming very very very very soon.
+
+<div class="paper"><span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span>. </span><span class="title">Probability-Based Queries on Stochastic Labelled Petri Nets</span></div><div class="paper">
+<span class="authors"><span>Raymond Devillers and <a href="https://uol.de/en/computingscience/parsys">Eike Best</a></span>. </span><span class="title">Persistent Permutations, Fairness, Asymmetric Choice Petri Nets, and Ochmanski's Conjecture</span></div><div class="paper">
+<span class="authors"><span>Eike Best, Raymond Devillers and Petr Jancar</span>. </span><span class="title">Coverability in Well-Formed Free-Choice Nets</span></div><div class="paper">
+<span class="authors"><span><a href="http://adambanham.io">Adam Banham</a>, Yannis Bertrand, Robert Andrews, <a href="http://staff.qut.edu.au/staff/m.wynn">Moe Wynn</a> and <a href="http://leemans.ch">Sander J.J. Leemans</a></span>. </span><span class="title">Discovering the Influence of Exogenous Data on Decisions in Processes</span></div><div class="paper">
+<span class="authors"><span><a href="http://www.cs.ncl.ac.uk/people/maciej.koutny">Maciej Koutny</a>, <a href="http://www.staff.ncl.ac.uk/alex.yakovlev">Alex Yakovlev</a> and <a href="https://www.ncl.ac.uk/computing/staff/profile/victorkhomenko.html">Victor Khomenko</a></span>. </span><span class="title">Distributed Places and Safe Net Reduction</span></div><div class="paper">
+<span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span>. </span><span class="title">Analysing Probabilistic Hornets</span></div><div class="paper">
+<span class="authors"><span><a href="https://www.ule.uni-jena.de/studiengangsevaluation/software">Thomas M. Prinz</a>, Christopher T. Schwanen and <a href="http://www.vdaalst.com">Wil van der Aalst</a></span>. </span><span class="title">Deciding (Sub-Marking) Reachability in O(P^2 + T^2) for Sound Acyclic Free-Choice Workflow Nets</span></div><div class="paper">
+<span class="authors"><span>Priyanka Kamboj, Cyrille Artho, Roberto Guanciale, Reyhaneh Jabbarvand and Brighten Godfrey</span>. </span><span class="title">Leveraging Petri Nets for Workflow Anomaly Detection in Microservice Architectures</span></div><div class="paper">
+<span class="authors">Lukas Zech. </span><span class="title">Symbolic Model Checking in the Modular State Space using Binary Decision Diagrams</span></div><div class="paper">
+<span class="authors"><span><a href="https://www.fernuni-hagen.de/mi/fakultaet/lehrende/bergenthum/index.shtml">Robin Bergenthum</a> and <a href="https://www.fernuni-hagen.de/ps/team/Jakub.Kovar.shtml">Jakub Kovář</a></span>. </span><span class="title">Synthesizing Petri Nets from Labelled Petri Nets</span></div><div class="paper">
+<span class="authors"><span>Tanguy Dubois, Kim Guldstrand Larsen and <a href="http://www.cs.aau.dk/~srba">Jiri Srba</a></span>. </span><span class="title">Statistical Model Checking of Stochastic Timed-Arc Petri Nets</span></div><div class="paper">
+<span class="authors"><span>Yann Thierry-Mieg, <a href="http://www.lrde.epita.fr/~adl">Alexandre Duret-Lutz</a> and <a href="http://lip6.fr/Denis.Poitrenaud">Denis Poitrenaud</a></span>. </span><span class="title">Simplifying LTL Model-Checking Given Prior Knowledge</span></div><div class="paper">
+<span class="authors"><span>Humam Kourani, Gyunam Park and Wil van der Aalst</span>. </span><span class="title">Translating Workflow Nets into the Partially Ordered Workflow Language</span></div><div class="paper">
+<span class="authors"><span><a href="http://pagesperso.ls2n.fr/~lime-d/">Didier Lime</a>, <a href="http://remiparrot.github.io">Rémi Parrot</a> and <a href="http://pagesperso.ls2n.fr/~roux-o/">Olivier H. Roux</a></span>. </span><span class="title">Decidability problems for weak Time Petri Nets with read, reset and transfer arcs</span></div><div class="paper">
+<span class="authors"><span><a href="https://www.linkedin.com/in/baptiste-pelletier-357b87166">Baptiste Pelletier</a>, Charles Lesire and Karen Godary-Dejean</span>. </span><span class="title">SkiNet: a User-Oriented Tool for Petri Net-based Analysis of Robotic Skills</span></div><div class="paper">
+<span class="authors"><span><a href="http://people.rennes.inria.fr/Loic.Helouet/">Loic Helouet</a>, <a href="http://people.irisa.fr/Nicolas.Markey/">Nicolas Markey</a> and Luca Paparazzo</span>. </span><span class="title">Energy Transfer in timed cyclic networks</span></div><div class="paper">
+<span class="authors"><span>Ariba Siddiqui, <a href="http://www.vdaalst.com">Wil van der Aalst</a> and Daniel Schuster</span>. </span><span class="title">Computing Alignments for Partially-ordered Traces Through Petri Net Unfoldings</span></div><div class="paper">
+<span class="authors"><span>Christopher T. Schwanen, <a href="https://hsbund.de">Wied Pakusa</a> and <a href="http://www.vdaalst.com">Wil van der Aalst</a></span>. </span><span class="title">Complexity of Alignments on Sound Free-Choice Workflow Nets</span></div><div class="paper">
+<span class="authors"><span>Amazigh Amrane, Hugo Bazille, <a href="https://www.lrde.epita.fr/~uli/">Uli Fahrenberg</a>, Loïc Hélouët and Philipp Schlehuber-Caissier</span>. </span><span class="title">Petri Nets and Higher-Dimensional Automata</span></div><div class="paper">
+<span class="authors"><a href="http://www.informatik.uni-hamburg.de/TGI/mitarbeiter/profs/valk.html">Rüdiger Valk</a>. </span><span class="title">Failure Resilience of strongly synchronized Processes</span></div><div class="paper">
+<span class="authors"><span><a href="https://www.benedikt-bollig.org">Benedikt Bollig</a>, <a href="https://www.irif.fr/users/mfortin/">Marie Fortin</a> and <a href="http://www.lsv.fr/~gastin/">Paul Gastin</a></span>. </span><span class="title">High-Level Message Sequence Charts: Satisfiability and Realizability Revisited</span></div><div class="paper">
+<span class="authors"><span>Laif-Oke Clasen, Can Nayci and <a href="http://www.informatik.uni-hamburg.de/TGI/moldt/">Daniel Moldt</a></span>. </span><span class="title">Distributed Reference Net Simulation based on Event Streaming</span></div>
+
 
 ## Day-by-day program
 
