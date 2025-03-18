@@ -39,9 +39,16 @@ Coming very very soon.
 | 09:00-10:00 | **Invited speaker** | **invited speaker 1** | TBA |
 | 10:00-10:30 | _Coffee break_ | | |
 | 10:30-11:00 | **Session 1** | TBA | TBA |
-| 11:00-11:30 |  | TBA | TBA |
+| 11:00-11:30 | | TBA | TBA |
 | 11:30-12:00 | | TBA | TBA |
 | 12:00-13:30 | _Lunch break_ | | |
+| 13:30-14:00 | **Session 2** | TBA | TBA |
+| 14:00-14:30 | | TBA | TBA |
+| 14:30-15:00 | | TBA | TBA |
+| 15:00-15:30 | _Coffee break_ | | |
+| 15:30-16:00 | **Session 3** | TBA | TBA |
+| 16:00-16:30 | | TBA | TBA |
+| 16:30-17:00 | | TBA | TBA |
 
 
 ### Thursday 26th June 2025
