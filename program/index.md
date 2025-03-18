@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for papers
+title: Conference program
 toc: false
 show_sidebar: false
 hide_footer: true
@@ -13,7 +13,7 @@ hide_footer: true
 
 ## List of accepted papers
 
-Coming very very soon.
+Coming very very very very soon.
 
 ## Day-by-day program
 
@@ -58,7 +58,7 @@ Tutorial (TBA)
 | 15:30-16:00 | **Session 3** | TBA | TBA |
 | 16:00-16:30 | | TBA | TBA |
 | 16:30-17:00 | | TBA | TBA |
-| 19:00-20:30 | | 🍸_Welcome reception_ | (to be confirmed) |
+| 19:00-20:30 | 🍸_Welcome reception_ | (to be confirmed) | |
 
 
 ### Thursday 26th June 2025: main conference
