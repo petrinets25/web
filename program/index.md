@@ -15,13 +15,13 @@ hide_footer: true
 
 Coming very very soon.
 
-## Program day-by-day
+## Day-by-day program
 
 ### Sunday 22nd June 2025 (remote)
 
 Tutorial (TBA)
 
-### Monday 23rd June 2025
+### Monday 23rd June 2025: workshops and tutorials
 
 | Event      | Location |
 | ----------- | ----------- |
@@ -29,7 +29,7 @@ Tutorial (TBA)
 | Tutorial | Room TBA |
 
 
-### Tuesday 24th June 2025
+### Tuesday 24th June 2025: workshops and tutorials
 
 | Event      | Location |
 | ----------- | ----------- |
@@ -39,7 +39,7 @@ Tutorial (TBA)
 | [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | Room TBA |
 
 
-### Wednesday 25th June 2025
+### Wednesday 25th June 2025: main conference
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
@@ -61,7 +61,7 @@ Tutorial (TBA)
 | 19:00-20:30 | | 🍸_Welcome reception_ | (to be confirmed) |
 
 
-### Thursday 26th June 2025
+### Thursday 26th June 2025: main conference
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
@@ -74,14 +74,14 @@ Tutorial (TBA)
 | 13:30-14:00 | **Session 5** | TBA | TBA |
 | 14:00-14:30 | | TBA | TBA |
 | 14:30-15:00 | | TBA | TBA |
-| 15:00-15:30 | _Coffee break_ | | |
+| 15:00-15:30 | ☕️_Coffee break_ | | |
 | 15:30-16:00 | **Session 6** | TBA | TBA |
 | 16:00-16:30 | | TBA | TBA |
 | 16:30-17:00 | | TBA | TBA |
 | 19:00-23:00 | 🍽_Conference dinner_ | Paris 14th district | |
 
 
-### Friday 27th June 2025
+### Friday 27th June 2025: main conference
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
