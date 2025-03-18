@@ -6,6 +6,11 @@ show_sidebar: false
 hide_footer: true
 ---
 
+# Program
+
+***🚧 This page is still under construction; please stay tuned! 🚧***
+
+
 ## List of accepted papers
 
 Coming very very soon.
@@ -36,6 +41,8 @@ Coming very very soon.
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
+| 08:15-8:45 | Registration | | |
+| 08:45-09:00 | Opening | | |
 | 09:00-10:00 | **Invited speaker** | **invited speaker 1** | TBA |
 | 10:00-10:30 | _Coffee break_ | | |
 | 10:30-11:00 | **Session 1** | TBA | TBA |
