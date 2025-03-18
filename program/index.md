@@ -6,8 +6,6 @@ show_sidebar: false
 hide_footer: true
 ---
 
-# Program
-
 ***🚧 This page is still under construction; please stay tuned! 🚧***
 
 
@@ -76,7 +74,7 @@ Coming very very soon.
 | 15:30-16:00 | **Session 6** | TBA | TBA |
 | 16:00-16:30 | | TBA | TBA |
 | 16:30-17:00 | | TBA | TBA |
-| 19:00-23:00 | | _Conference dinner_ | Paris 14th district |
+| 19:00-23:00 | _Conference dinner_ | Paris 14th district | |
 
 
 ### Friday 27th June 2025
