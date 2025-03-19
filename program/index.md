@@ -15,7 +15,7 @@ hide_footer: true
 
 * <span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span>. </span> **Probability-Based Queries on Stochastic Labelled Petri Nets**
 * <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> and Raymond Devillers </span>. </span> **Persistent Permutations, Fairness, Asymmetric Choice Petri Nets, and Ochmanski's Conjecture**
-* <span class="authors"><span>Eike Best, Raymond Devillers and Petr Jancar</span>. </span> **Coverability in Well-Formed Free-Choice Nets**
+* <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> , Raymond Devillers and Petr Jancar</span>. </span> **Coverability in Well-Formed Free-Choice Nets**
 * <span class="authors"><span><a href="http://adambanham.io">Adam Banham</a>, Yannis Bertrand, Robert Andrews, <a href="http://staff.qut.edu.au/staff/m.wynn">Moe Wynn</a> and <a href="http://leemans.ch">Sander J.J. Leemans</a></span>. </span> **Discovering the Influence of Exogenous Data on Decisions in Processes**
 * <span class="authors"><span><a href="http://www.cs.ncl.ac.uk/people/maciej.koutny">Maciej Koutny</a>, <a href="http://www.staff.ncl.ac.uk/alex.yakovlev">Alex Yakovlev</a> and <a href="https://www.ncl.ac.uk/computing/staff/profile/victorkhomenko.html">Victor Khomenko</a></span>. </span> **Distributed Places and Safe Net Reduction**
 * <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span>. </span> **Analysing Probabilistic Hornets**
