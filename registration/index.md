@@ -58,7 +58,7 @@ To reduce the carbon footprint of the Petri Nets conference, participants
 traveling a sufficiently long distance **without flying** (using public
 transportation, ideally by train) are eligible for a **€20 discount**.
 
-The minimum travel distance is **1,000 km** from Paris, measured [as the crow flies](https://en.wikipedia.org/wiki/Great-circle_distance).
+The minimum travel distance is [**1,000 km** from Paris](https://www.distance.to/Paris,%C3%8Ele-de-France,FRA), measured [as the crow flies](https://en.wikipedia.org/wiki/Great-circle_distance).
 
 After registering, please send your supporting documents to the local organizing chairs (see contact information below).
 
