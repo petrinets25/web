@@ -6,11 +6,11 @@ show_sidebar: false
 hide_footer: true
 ---
 
-## Registration
+# Registration
 
 ***🚧 This page is still under construction; please stay tuned! 🚧***
 
-### Important dates
+## Important dates
 
 
 | Nature      | Date |
@@ -26,7 +26,7 @@ hide_footer: true
 
 *Every accepted paper requires at least one regular (non-student) registration.*
 
-### Registration fees
+## Registration fees
 
 
 | Nature      | Early (full) | Late (full) | Early (student) | Late (student) |
@@ -47,12 +47,12 @@ hide_footer: true
 * The 1-day workshop registration gives access to the lunch and
   coffee breaks on Jun 24. 
 
-#### Students registration
+### Students registration
 
 After registering, please send your supporting documents (copy of your student
 card) to the local organizing chairs (see contact information below).
 
-#### 🚃 Discounts: travelling by train
+### 🚃 Discounts: travelling by train
 
 To reduce the carbon footprint of the Petri Nets conference, participants
 traveling a sufficiently long distance **without flying** (using public
@@ -62,19 +62,35 @@ The minimum travel distance is [**1,000 km** from Paris](https://www.distance.to
 
 After registering, please send your supporting documents to the local organizing chairs (see contact information below).
 
-#### Extras
+### Extras
 
 * Extra banquet ticket: 90€
 
 
-### Register now
+## Registration process
 
-**Registration link TBA.**
+Due to complications and limitations coming from the CNRS platform "Azur colloques", registration is a _three-step_ process:
+
+### Step 1: information
+First, you should fill in a form to express your interests in the workshops (if any), for statistics only, and your dietary restrictions (if any)
+
+The URL of the first form is ***[http://lipn.univ-paris13.fr/limesurvey/index.php/781864?lang=en](http://lipn.univ-paris13.fr/limesurvey/index.php/781864?lang=en)***.
 
 
-### Visa
+### Step 2: pre-registration form
+After filling the aforementioned form, your will read the URL of the second form, which is a pre-registration form.
+
+You will find _"Petri Nets 2025"_ in the list of _Open Conferences_.
+Then, click on _"Prerecord"_ to enter your personal information and select the appropriate _Category_ according to the pricing list.
+
+### Step 3: payment
+Only after we validate your pre-registration (which can take up to 48 hours), you will receive an email with a link to pay your registration.
+If you do not receive this email within 48 hours, please check your junk/spam folder.
+
+
+## Visa
 If you need a letter to support your visa application, please contact the local
 organization chairs.
 
-### Contact
+## Contact
 For any issue with registration, contact the local organization chairs [pn2025@petrinet.net](mailto:pn2025@petrinet.net).
