@@ -72,7 +72,8 @@ Due to complications and limitations of the CNRS platform "Azur colloques", regi
 ### Step 1: information
 First, you should fill in a form to express your interests in the workshops (if any), for statistics only, and your dietary restrictions (if any).
 
-The URL of the first form is ***[http://lipn.univ-paris13.fr/limesurvey/index.php/781864?lang=en](http://lipn.univ-paris13.fr/limesurvey/index.php/781864?lang=en)***.
+The URL of the first form is
+**[http://lipn.univ-paris13.fr/limesurvey/index.php/781864?lang=en](http://lipn.univ-paris13.fr/limesurvey/index.php/781864?lang=en)**
 
 
 ### Step 2: pre-registration form
