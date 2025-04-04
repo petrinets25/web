@@ -8,8 +8,6 @@ hide_footer: true
 
 # Registration
 
-***🚧 This page is still under construction; please stay tuned! 🚧***
-
 ## Important dates
 
 
