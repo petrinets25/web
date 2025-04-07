@@ -64,11 +64,11 @@ hide_footer: true
 | ----------- | ----------- | ----------- | ----------- |
 | 08:15-8:45 | 📑Registration | | |
 | 08:45-09:00 | 🗣Opening | | |
-| 09:00-10:00 | **Invited speaker** | **invited speaker 1** | TBA |
+| 09:00-10:00 | **Invited speaker** | **Marco Montali** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
-| 10:30-11:00 | **Session 1** | TBA | TBA |
-| 11:00-11:30 | | TBA | TBA |
-| 11:30-12:00 | | TBA | TBA |
+| 10:30-11:00 | **Session 1** | <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span>. </span>  | Analysing Probabilistic Hornets |
+| 11:00-11:30 | | <span class="authors"><span><a href="http://www.cs.ncl.ac.uk/people/maciej.koutny">Maciej Koutny</a>, <a href="http://www.staff.ncl.ac.uk/alex.yakovlev">Alex Yakovlev</a> and <a href="https://www.ncl.ac.uk/computing/staff/profile/victorkhomenko.html">Victor Khomenko</a></span>. </span> | Distributed Places and Safe Net Reduction |
+| 11:30-12:00 | | <span class="authors"><span><a href="https://www.fernuni-hagen.de/mi/fakultaet/lehrende/bergenthum/index.shtml">Robin Bergenthum</a> and <a href="https://www.fernuni-hagen.de/ps/team/Jakub.Kovar.shtml">Jakub Kovář</a></span>. </span> | Synthesizing Petri Nets from Labelled Petri Nets |
 | 12:00-13:30 | 🥗_Lunch break_ | | |
 | 13:30-14:00 | **Session 2** | TBA | TBA |
 | 14:00-14:30 | | TBA | TBA |
@@ -84,7 +84,7 @@ hide_footer: true
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| 09:00-10:00 | **Invited speaker** | **invited speaker 2** | TBA |
+| 09:00-10:00 | **Invited speaker** | **Patricia Bouyer-Decitre** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | 10:30-11:00 | **Session 4** | TBA | TBA |
 | 11:00-11:30 | | TBA | TBA |
@@ -104,7 +104,7 @@ hide_footer: true
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| 09:00-10:00 | **Invited speaker** | **invited speaker 3** | TBA |
+| 09:00-10:00 | **Invited speaker** | **Dirk Beyer** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | 10:30-11:00 | **Session 7** | TBA | TBA |
 | 11:00-11:30 | | TBA | TBA |
