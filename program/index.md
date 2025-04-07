@@ -39,18 +39,19 @@ hide_footer: true
 
 ## Day-by-day program
 
-### Monday 23rd June 2025: workshops and tutorials
+### Monday 23rd June 2025: workshops and Petri net course
 
 | Event      | Location |
 | ----------- | ----------- |
+| [Petri Net Course](Petri Net Course) | Room TBA |
 | [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | Room TBA |
-| Tutorial | Room TBA |
 
 
-### Tuesday 24th June 2025: workshops and tutorials
+### Tuesday 24th June 2025: workshops and Petri net course
 
 | Event      | Location |
 | ----------- | ----------- |
+| [Petri Net Course](Petri Net Course) | Room TBA |
 | [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | Room TBA |
 | [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | Room TBA |
 | [Model Checking Contest 2025](https://mcc.lip6.fr/) | Room TBA |
