@@ -66,17 +66,18 @@ hide_footer: true
 | 08:45-09:00 | 🗣Opening | | |
 | 09:00-10:00 | **Invited speaker** | **Marco Montali** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
-| 10:30-11:00 | **Session 1** | <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span>. </span>  | Analysing Probabilistic Hornets |
+| 10:30-11:00 | **Session 1: Composition & Synthesis** | <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span>. </span>  | Analysing Probabilistic Hornets |
 | 11:00-11:30 | | <span class="authors"><span><a href="http://www.cs.ncl.ac.uk/people/maciej.koutny">Maciej Koutny</a>, <a href="http://www.staff.ncl.ac.uk/alex.yakovlev">Alex Yakovlev</a> and <a href="https://www.ncl.ac.uk/computing/staff/profile/victorkhomenko.html">Victor Khomenko</a></span>. </span> | Distributed Places and Safe Net Reduction |
 | 11:30-12:00 | | <span class="authors"><span><a href="https://www.fernuni-hagen.de/mi/fakultaet/lehrende/bergenthum/index.shtml">Robin Bergenthum</a> and <a href="https://www.fernuni-hagen.de/ps/team/Jakub.Kovar.shtml">Jakub Kovář</a></span>. </span> | Synthesizing Petri Nets from Labelled Petri Nets |
 | 12:00-13:30 | 🥗_Lunch break_ | | |
-| 13:30-14:00 | **Session 2** | TBA | TBA |
-| 14:00-14:30 | | TBA | TBA |
-| 14:30-15:00 | | TBA | TBA |
+| 13:30-14:00 | **Session 2: Workflow Nets** | <span class="authors"><span><a href="https://www.ule.uni-jena.de/studiengangsevaluation/software">Thomas M. Prinz</a>, Christopher T. Schwanen and <a href="http://www.vdaalst.com">Wil van der Aalst</a></span>. </span> | Deciding (Sub-Marking) Reachability in O(P<sup>2</sup> + T<sup>2</sup>) for Sound Acyclic Free-Choice Workflow Nets |
+| 14:00-14:30 | | <span class="authors"><span>Christopher T. Schwanen, <a href="https://hsbund.de">Wied Pakusa</a> and <a href="http://www.vdaalst.com">Wil van der Aalst</a></span>. </span> | Complexity of Alignments on Sound Free-Choice Workflow Nets |
+| 14:30-15:00 | | <span class="authors"><span>Humam Kourani, Gyunam Park and Wil van der Aalst</span>. </span>  | Translating Workflow Nets into the Partially Ordered Workflow Language |
 | 15:00-15:30 | ☕️_Coffee break_ | | |
-| 15:30-16:00 | **Session 3** | TBA | TBA |
-| 16:00-16:30 | | TBA | TBA |
-| 16:30-17:00 | | TBA | TBA |
+| 15:30-16:00 | **Session 3: Process Mining** | <span class="authors"><span><a href="http://adambanham.io">Adam Banham</a>, Yannis Bertrand, Robert Andrews, <a href="http://staff.qut.edu.au/staff/m.wynn">Moe Wynn</a> and <a href="http://leemans.ch">Sander J.J. Leemans</a></span>. </span>  | Discovering the Influence of Exogenous Data on Decisions in Processes |
+| 16:00-16:30 | | <span class="authors"><span>Priyanka Kamboj, Cyrille Artho, Roberto Guanciale, Reyhaneh Jabbarvand and Brighten Godfrey</span>. </span> | Leveraging Petri Nets for Workflow Anomaly Detection in Microservice Architectures |
+| 16:30-17:00 | | <span class="authors"><span>Ariba Siddiqui, <a href="http://www.vdaalst.com">Wil van der Aalst</a> and Daniel Schuster</span>. </span>  | Computing Alignments for Partially-ordered Traces Through Petri Net Unfoldings |
+| 17:00-17:30 | | <span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span>. </span> | Enjoy the Silence, Part II: Probability-Based Queries on Stochastic Labelled Petri Nets |
 | 19:00-20:30 | 🍸_Welcome reception_ | (to be confirmed) | |
 
 
