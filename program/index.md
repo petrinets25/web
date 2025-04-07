@@ -87,17 +87,15 @@ hide_footer: true
 | ----------- | ----------- | ----------- | ----------- |
 | 09:00-10:00 | **Invited speaker** | **Patricia Bouyer-Decitre** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
-| 10:30-11:00 | **Session 4** | TBA | TBA |
-| 11:00-11:30 | | TBA | TBA |
-| 11:30-12:00 | | TBA | TBA |
+| 10:30-11:00 | **Session 4: Model Checking** |  <span class="authors">Lukas Zech. </span> | Symbolic Model Checking in the Modular State Space using Binary Decision Diagrams |
+| 11:00-11:30 | |  <span class="authors"><span>Yann Thierry-Mieg, <a href="http://www.lrde.epita.fr/~adl">Alexandre Duret-Lutz</a> and <a href="http://lip6.fr/Denis.Poitrenaud">Denis Poitrenaud</a></span>. </span>  | Simplifying LTL Model-Checking Given Prior Knowledge |
+| 11:30-12:00 | | <span class="authors"><span><a href="https://www.linkedin.com/in/baptiste-pelletier-357b87166">Baptiste Pelletier</a>, Charles Lesire and Karen Godary-Dejean</span>. </span> | SkiNet: a User-Oriented Tool for Petri Net-based Analysis of Robotic Skills |
 | 12:00-13:30 | 🥗_Lunch break_ | | |
 | 13:30-14:00 | **Session 5** | TBA | TBA |
 | 14:00-14:30 | | TBA | TBA |
 | 14:30-15:00 | | TBA | TBA |
 | 15:00-15:30 | ☕️_Coffee break_ | | |
-| 15:30-16:00 | **Session 6** | TBA | TBA |
-| 16:00-16:30 | | TBA | TBA |
-| 16:30-17:00 | | TBA | TBA |
+| 15:30-17:30 | **Tool demonstrations** | TBA | TBA |
 | 19:00-23:00 | 🍽_Conference dinner_ | Paris 14th district | |
 
 
@@ -107,14 +105,11 @@ hide_footer: true
 | ----------- | ----------- | ----------- | ----------- |
 | 09:00-10:00 | **Invited speaker** | **Dirk Beyer** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
-| 10:30-11:00 | **Session 7** | TBA | TBA |
+| 10:30-11:00 | **Session 6** | TBA | TBA |
 | 11:00-11:30 | | TBA | TBA |
 | 11:30-12:00 | | TBA | TBA |
 | 12:00-13:30 | 🥗_Lunch break_ | | |
-| 13:30-14:00 | **Session 8** | TBA | TBA |
+| 13:30-14:00 | **Session 7** | TBA | TBA |
 | 14:00-14:30 | | TBA | TBA |
 | 14:30-15:00 | | TBA | TBA |
-| 15:00-15:30 | ☕️_Coffee break_ | | |
-| 15:30-16:00 | **Session 9** | TBA | TBA |
-| 16:00-16:30 | | TBA | TBA |
-| 16:30-17:00 | | TBA | TBA |
+| 15:00-15:30 | ☕️_Coffee break_ (?) | | |
