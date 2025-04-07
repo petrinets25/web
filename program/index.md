@@ -39,10 +39,6 @@ hide_footer: true
 
 ## Day-by-day program
 
-### Sunday 22nd June 2025 (remote)
-
-Tutorial (TBA)
-
 ### Monday 23rd June 2025: workshops and tutorials
 
 | Event      | Location |
