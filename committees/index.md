@@ -36,13 +36,13 @@ hide_footer: true
 
 
 
-## Organization Committee
- * [Étienne André](https://lipn.univ-paris13.fr/~andre/) (Université Sorbonne Paris Nord 🇫🇷)
- * [Carlos Olarte](https://sites.google.com/site/carlosolarte) (Université Sorbonne Paris Nord 🇫🇷)
-
 ## Program committee co-chairs
 * [Elvio Amparore](https://informatica.unito.it/persone/elviogilberto.amparore), Italy 🇮🇹
 * [Łukasz Mikulski](https://ipipan.waw.pl/en/institute/employees/lukasz-mikulski), Poland 🇵🇱
+
+## Organization Committee
+ * [Étienne André](https://lipn.univ-paris13.fr/~andre/) (Université Sorbonne Paris Nord 🇫🇷)
+ * [Carlos Olarte](https://sites.google.com/site/carlosolarte) (Université Sorbonne Paris Nord 🇫🇷)
 
 ## Tool exhibition chairs
 * [Dylan Marinho](https://dylan-marinho.gitlab.io/), France 🇫🇷
