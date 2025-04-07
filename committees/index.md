@@ -45,7 +45,7 @@ hide_footer: true
 * [Łukasz Mikulski](https://ipipan.waw.pl/en/institute/employees/lukasz-mikulski), Poland 🇵🇱
 
 ## Tool exhibition chairs
-TBA
+* [Dylan Marinho](https://dylan-marinho.gitlab.io/), France 🇫🇷
 
 ## Workshops co-chairs
 * Giuliana Franceschinis, Italy 🇮🇹
