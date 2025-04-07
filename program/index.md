@@ -71,7 +71,9 @@ hide_footer: true
 | 14:00-14:30 | | <span class="authors"><span><a href="http://pagesperso.ls2n.fr/~lime-d/">Didier Lime</a>, <a href="http://remiparrot.github.io">Rémi Parrot</a> and <a href="http://pagesperso.ls2n.fr/~roux-o/">Olivier H. Roux</a></span> </span> | Decidability problems for weak Time Petri Nets with read, reset and transfer arcs |
 | 14:30-15:00 | | <span class="authors"><span><a href="http://people.rennes.inria.fr/Loic.Helouet/">Loic Helouet</a>, <a href="http://people.irisa.fr/Nicolas.Markey/">Nicolas Markey</a> and Luca Paparazzo</span> </span> | Energy Transfer in timed cyclic networks |
 | 15:00-15:30 | ☕️_Coffee break_ | | |
-| **15:30-17:30** | **Tool demonstrations** | TBA | TBA |
+| **15:30-17:30** | **Tool demonstrations** | Chair: Dylan Marinho | |
+| | | TBA | TBA |
+| | | TBA | TBA |
 | **19:00-23:00** | 🍽_Conference dinner_ | Paris 14th district | |
 
 
