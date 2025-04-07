@@ -43,7 +43,7 @@ hide_footer: true
 
 | Event      | Location |
 | ----------- | ----------- |
-| [Petri Net Course](Petri Net Course) | Room TBA |
+| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/) | Room TBA |
 | [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | Room TBA |
 
 
@@ -51,7 +51,7 @@ hide_footer: true
 
 | Event      | Location |
 | ----------- | ----------- |
-| [Petri Net Course](Petri Net Course) | Room TBA |
+| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/) | Room TBA |
 | [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | Room TBA |
 | [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | Room TBA |
 | [Model Checking Contest 2025](https://mcc.lip6.fr/) | Room TBA |
