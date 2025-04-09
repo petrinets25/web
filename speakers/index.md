@@ -22,8 +22,38 @@ TBA
 
 Senior Researcher, CNRS, Director of LMF, ENS Paris-Saclay, France
 
-### Title and abstract
-TBA
+### On the Probabilistic and Statistical Verification of Infinite Markov Chains
+
+The verification of infinite-state Markov chains is a challenging problem, even
+when those chains are described by structured high-level models. In 2007,
+Abdulla et al. introduced the concept of decisiveness (Log. Meth. Comput.
+Sci.), and showed that a natural approximation scheme could be applied to
+infinite Markov chains that are decisive. This was, up to our knowledge, the
+unique generic scheme that could be widely applied to (decisive) infinite
+Markov chains providing guarantees on the computed values (under some mild
+assumptions for effectiveness). On the other hand, statistical model-checking
+is a very efficient method that can be used for estimating probabilities in
+stochastic systems (Younes et al., SBMF’10, Inf. Comput. 2006). We explain in
+this talk that decisiveness is also a key concept that allows to apply such
+statistical methods to infinite Markov chains.
+
+While decisiveness is a crucial property, not all Markov chains are decisive,
+and it is therefore desirable to propose methods to analyze non-decisive Markov
+chains. Importance sampling (Kahn and Harris, Natl. Bureau Stands. 1951) is a
+method which has been proposed to improve efficiency of statistical
+model-checking, in particular for estimating probabilities of rare events in
+stochastic systems. The idea is to biase the original chain, and to estimate
+the probabilities in the biased chain; guarantees can sometimes be given, as
+studied for instance in (Barbot, Haddad, and Picaronny, TACAS’12).
+
+In this talk, we will explain how we use the importance sampling idea to turn a
+non-decisive Markov chain into a biased decisive Markov chain, in which we can
+estimate probabilities (with guarantees). We apply the general approach to a
+class of probabilistic pushdown automata. Our algorithms have been implemented
+in the tool Cosmos (Ballarini et al., Perf. Eval. 2015), and we discuss the
+methodology for experiments as well as our (partial) conclusions.
+
+
 
 ### Short biography
 Patricia Bouyer holds a PhD in Computer Science from ENS Cachan (2002). She has
