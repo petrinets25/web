@@ -12,21 +12,21 @@ hide_footer: true
 
 ### Monday 23rd June 2025: workshops and Petri net course
 
-| Event      | Location |
-| ----------- | ----------- |
-| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/) | Room TBA |
-| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | Room TBA |
+| Event      | Schedule | Location |
+| ----------- | ----------- | ----------- |
+| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/) | 8.30 – 10.00 and 10.30 – 12.00 + 13.30 – 15.00 and 15.30 – 17.00  | Room TBA |
+| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | | Room TBA |
 
 
 ### Tuesday 24th June 2025: workshops and Petri net course
 
-| Event      | Location |
-| ----------- | ----------- |
-| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/) | Room TBA |
-| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | Room TBA |
-| [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | Room TBA |
-| [Model Checking Contest 2025](https://mcc.lip6.fr/) | Room TBA |
-| [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | Room TBA |
+| Event      | Schedule | Location |
+| ----------- | ----------- | ----------- |
+| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/) | 8.30 – 10.00 and 10.30 – 12.00 + 13.30 – 15.00 and 15.30 – 17.00  | Room TBA |
+| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | |Room TBA |
+| [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | | Room TBA |
+| [Model Checking Contest 2025](https://mcc.lip6.fr/) | | Room TBA |
+| [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | | Room TBA |
 
 
 ### Wednesday 25th June 2025: main conference
