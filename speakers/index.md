@@ -45,7 +45,8 @@ Supporting Material:
  * Part 2: [Find, Use, and Conserve Tools for Formal Methods](https://www.sosy-lab.org/research/pub/2024-Podelski65.Find_Use_and_Conserve_Tools_for_Formal_Methods.pdf)
 
 ### Short biography
-Dirk Beyer is Full Professor of Computer Science and has a Research Chair
+
+_Dirk Beyer is Full Professor of Computer Science and has a Research Chair
 for Software and Computational-Systems Engineering at LMU Munich, Germany (since 2016).
 Before, he was Full Professor of Computer Science at University of Passau, Germany (2009-2016).
 He was Assistant and Associate Professor at Simon Fraser University, B.C., Canada (2006-2009),
@@ -58,7 +59,7 @@ His research focuses on models, algorithms, and tools for the construction and a
 He is architect, designer, and implementor of several successful tools.
 For example, CrocoPat is the first efficient interpreter for relational programming,
 BenchExec is a framework for reliable benchmarking, and
-CPAchecker and BLAST are two well-known and successful software model checkers. 
+CPAchecker and BLAST are two well-known and successful software model checkers._
 
 ## [Patricia Bouyer](https://lmf.cnrs.fr/PatriciaBouyer/)
 
@@ -100,7 +101,8 @@ methodology for experiments as well as our (partial) conclusions.
 
 
 ### Short biography
-Patricia Bouyer holds a PhD in Computer Science from ENS Cachan (2002). She has
+
+_Patricia Bouyer holds a PhD in Computer Science from ENS Cachan (2002). She has
 been a CNRS researcher from 2002 to 2020 at "Laboratoire Spécification et
 Vérification" (LSV, CNRS & ENS Cachan, France). She is now the head of the
 "Laboratoire Méthodes Formelles" (LMF, Université Paris-Saclay, CNRS, ENS
@@ -110,7 +112,7 @@ research topics are model checking, game theory, and quantitative aspects of
 verification. She has been the principal investigator of ERC Starting Grant
 project EQualIS (2013-2019). She was the recipient of a Marie Curie fellowship
 in 2006, of the Bronze medal of CNRS in 2007 and of the Presburger Award given
-by the EATCS in 2011.
+by the EATCS in 2011._
 
 
 ## [Marco Montali](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31326-marco-montali)
@@ -120,12 +122,23 @@ by the EATCS in 2011.
 
 Full Professor in Computer Engineering, Free University of Bozen-Bolzano, Italy
 
-### Title and abstract
-TBA
+### Automated Reasoning for Data-Aware Petri Nets
+
+
+The focus on work processes in process science is increasingly shifting from a case-centric, pure control-flow perspective, to a
+data-aware setting where (possibly multiple interrelated) objects and
+their properties are updated by and influence the process. Data may
+range from simple attributes (such as strings or numbers) to complex
+data structures like relational databases. Modelling, analysis, and mining of such data-aware processes call for formalisms and techniques that
+simultaneously tackle time/dynamics and the interplay with these different forms of data. In this short paper, we focus on data-aware work
+processes whose underlying control-flow backbone is described as a Petri
+net. We overview the main modelling requirements and constructs emerging in different proposals, ranging from case- to object-centric processes.
+We then summarize how artificial intelligence techniques from automated
+reasoning have been employed and further developed to obtain foundational and practical results in data-aware process analysis and mining.
 
 ### Short biography
 
-Marco Montali is a Full Professor in Computer Engineering in the Faculty of
+_Marco Montali is a Full Professor in Computer Engineering in the Faculty of
 Engineering at the Free University of Bozen-Bolzano, Italy, where he also
 coordinates the BSc Program in Informatics and Management of Digital Business.
 His research is in artificial intelligence and information systems for the
@@ -141,6 +154,6 @@ recipient of 10 best paper awards and 2 test-of-time awards. He received the
 2015 “Marco Somalvico” award, given by the Italian Association of Artificial
 Intelligence to the best under 35 Italian researcher in artificial
 intelligence. He regularly meets the general public, industries, and students
-to discuss about artificial intelligence and its societal implications.
+to discuss about artificial intelligence and its societal implications._
 
  
