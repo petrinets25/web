@@ -7,14 +7,58 @@ hide_footer: true
 ---
 
 ## [Dirk Beyer](https://www.sosy-lab.org/people/beyer/)
+![Dirk Beyer](./dirk_beyer.jpg)
 
 Full Professor, Head of Research Chair (Lehrstuhlinhaber), Software and Computational Systems Lab, Department of Computer Science, Ludwig-Maximilians-Universität München (LMU Munich), Germany
 
-### Title and abstract
-TBA
+### The Transformation Game: Joining Forces for Verification
+
+The presentation consists of two parts.
+The first part makes a case for transformation as a key verification technology.
+Transformations are used to convey information across different abstraction layers
+and to underpin the correctness, efficiency, and usability of formal-methods tools.
+The lack of modularity incurs repeated engineering effort and the risk
+of bugs in the process of ‘reinventing the wheel’.
+It can be seen as a new paradigm to construct verification technology
+by employing standardized formats and interfaces for information exchange,
+and by building modular transformers between verification artifacts.
+Our vision is an ecosystem of reusable verification components that
+supports joining forces of all available techniques, allows agile development
+of new tools, and provides a common ground to evaluate and
+compare future scientific advancements: via modular transformation.
+
+In a second part, to support the transformation approach,
+we describe an approach to collect and conserve tools for formal methods.
+We collect and maintain essential data about tools for formal methods in
+a central repository, called FM-Tools, available at
+[https://fm-tools.sosy-lab.org](https://fm-tools.sosy-lab.org).
+The repository contains metadata, such as which tools are
+available, which versions are advertized for each tool,
+and what command-line arguments to use for default usage.
+The actual tool executables are stored in tool archives at Zenodo,
+and for technically deep documentation, references point
+to archived publications on project web sites.
+With this approach, we can conserve today's tools for the future.
+
+Supporting Material:
+ * Part 1: [The Transformation Game: Joining Forces for Verification](https://doi.org/10.1007/978-3-031-75778-5_9)
+ * Part 2: [Find, Use, and Conserve Tools for Formal Methods](https://www.sosy-lab.org/research/pub/2024-Podelski65.Find_Use_and_Conserve_Tools_for_Formal_Methods.pdf)
 
 ### Short biography
-TBA
+Dirk Beyer is Full Professor of Computer Science and has a Research Chair
+for Software and Computational-Systems Engineering at LMU Munich, Germany (since 2016).
+Before, he was Full Professor of Computer Science at University of Passau, Germany (2009-2016).
+He was Assistant and Associate Professor at Simon Fraser University, B.C., Canada (2006-2009),
+and Postdoctoral Researcher at EPFL in Lausanne, Switzerland (2004-2006) and
+at the University of California, Berkeley, USA (2003-2004), in the group of Tom Henzinger.
+Dirk Beyer holds a Dipl.-Inf. degree (1998) and a Dr. rer. nat. degree (2002)
+in Computer Science from the Brandenburg University of Technology in Cottbus, Germany.
+In 1998 he was Software Engineer with Siemens AG, SBS Dept. Major Projects in Dresden, Germany.
+His research focuses on models, algorithms, and tools for the construction and analysis of reliable software systems.
+He is architect, designer, and implementor of several successful tools.
+For example, CrocoPat is the first efficient interpreter for relational programming,
+BenchExec is a framework for reliable benchmarking, and
+CPAchecker and BLAST are two well-known and successful software model checkers. 
 
 ## [Patricia Bouyer](https://lmf.cnrs.fr/PatriciaBouyer/)
 
