@@ -35,7 +35,7 @@ hide_footer: true
 | ----------- | ----------- | ----------- | ----------- |
 | 08:15-8:45 | 📑Registration | | |
 | **08:45-09:00** | 🗣Opening | | |
-| **09:00-10:00** | **Invited speaker** | **Marco Montali** | TBA |
+| **09:00-10:00** | **Invited speaker** | **Dirk Beyer** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 1: Composition & Synthesis** | Chair: TBA | |
 | 10:30-11:00 | | <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span> </span>  | Analysing Probabilistic Hornets |
@@ -81,7 +81,7 @@ hide_footer: true
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| **09:00-10:00** | **Invited speaker** | **Dirk Beyer** | TBA |
+| **09:00-10:00** | **Invited speaker** | **Marco Montali** | TBA |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 6: Theory of Petri nets** | Chair: TBA | |
 | 10:30-11:00 | | <span class="authors"><a href="http://www.informatik.uni-hamburg.de/TGI/mitarbeiter/profs/valk.html">Rüdiger Valk</a>. </span> | Failure Resilience of strongly synchronized Processes |
