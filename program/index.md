@@ -35,7 +35,7 @@ hide_footer: true
 | ----------- | ----------- | ----------- | ----------- |
 | 08:15-8:45 | 📑Registration | | |
 | **08:45-09:00** | 🗣Opening | | |
-| **09:00-10:00** | **Invited speaker** | **Dirk Beyer** | TBA |
+| **09:00-10:00** | **Invited speaker** | **Dirk Beyer** | The Transformation Game: Joining Forces for Verification |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 1: Composition & Synthesis** | Chair: TBA | |
 | 10:30-11:00 | | <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span> </span>  | Analysing Probabilistic Hornets |
@@ -59,7 +59,7 @@ hide_footer: true
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| **09:00-10:00** | **Invited speaker** | **Patricia Bouyer-Decitre** | TBA |
+| **09:00-10:00** | **Invited speaker** | **Patricia Bouyer-Decitre** | On the Probabilistic and Statistical Verification of Infinite Markov Chains |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 4: Model Checking** | Chair: TBA | |
 | 10:30-11:00 | |  <span class="authors">Lukas Zech. </span> | Symbolic Model Checking in the Modular State Space using Binary Decision Diagrams |
@@ -81,7 +81,7 @@ hide_footer: true
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| **09:00-10:00** | **Invited speaker** | **Marco Montali** | TBA |
+| **09:00-10:00** | **Invited speaker** | **Marco Montali** | Automated Reasoning for Data-Aware Petri Nets |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 6: Theory of Petri nets** | Chair: TBA | |
 | 10:30-11:00 | | <span class="authors"><a href="http://www.informatik.uni-hamburg.de/TGI/mitarbeiter/profs/valk.html">Rüdiger Valk</a>. </span> | Failure Resilience of strongly synchronized Processes |
