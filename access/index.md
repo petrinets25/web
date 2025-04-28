@@ -8,7 +8,7 @@ hide_footer: true
 
 ## Access
 
-Petri Nets 2025, together with all associated events (tutorials, workshops), is located at the **Centre de colloques** of **[Campus Condorcet Paris-Aubervilliers](https://www.campus-condorcet.fr/en)**.
+Petri Nets 2025, together with all associated events (tutorials, workshops), is located at the **Centre de colloques** (conference center) of **[Campus Condorcet Paris-Aubervilliers](https://www.campus-condorcet.fr/en)**.
 
 The **Centre de colloques** is located immediately on métro line 12 station **[Front Populaire](https://en.wikipedia.org/wiki/Front_Populaire_station)**.
 
@@ -19,14 +19,20 @@ The **Centre de colloques** is located immediately on métro line 12 station **[
 Exact GPS coordinates: [48.907175 / 2.366427](https://www.openstreetmap.org/node/11266990941#map=19/48.907175/2.366427).
 
 ### Public transportation
-* Paris métro: [Front Populaire](https://en.wikipedia.org/wiki/Front_Populaire_station), **exit #2 "Campus Condorcet"**, then once outside, the entrance is immediately on your left.
-* [Vélib'](https://www.velib-metropole.fr/en) (Paris self-service bicycle) station 32021 immediately near the campus
-* [Itinerary planner](https://www.iledefrance-mobilites.fr/en)
+* 🚇 Paris métro: [Front Populaire](https://en.wikipedia.org/wiki/Front_Populaire_station), **exit #2 "Campus Condorcet"**, then once outside, the entrance is immediately on your left.
+* 🚲 [Vélib'](https://www.velib-metropole.fr/en) (Paris self-service bicycle) station 32021 immediately near the conference center
+* 🗺 [Itinerary planner Île-de-France mobilités](https://www.iledefrance-mobilites.fr/en); alternatively, CityMapper is very efficient for itinerary planning in Paris
 
 ![Centre de colloques](../img/centre-colloques.jpg)
 ![Auditorium](../img/condorcet-auditorium.jpg)
 ![Salle 100](../img/condorcet-100.jpg)
 ![Centre de colloques](../img/condorcet.jpg)
+
+### Address
+Centre de colloques<br>
+Campus Condorcet<br>
+Place du Front populaire<br>
+93322 Aubervilliers cedex
 
 ### Accommodation
 

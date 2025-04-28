@@ -24,7 +24,10 @@ Paris-Aubervilliers, France ([métro line 12](https://en.wikipedia.org/wiki/Fron
 _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash){:target="_blank"}_
 
 ![Centre de colloques](img/centre-colloques.jpg)
-![Salle 100](img/condorcet-100.jpg)
+
+<img src="img/condorcet-auditorium.jpg" height="250">
+<img src="img/condorcet-100.jpg" height="250">
+<img src="img/condorcet.jpg" height="250">
 
 
 ## Topics specific to Petri Nets
