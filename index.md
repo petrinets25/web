@@ -16,13 +16,15 @@ from Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.
 jointly
 with members of the [MeFoSyLoMa](https://www.mefosyloma.fr) group. 
 
-The conference takes place at the [Campus Condorcet](https://www.campus-condorcet.fr/en),
+The conference takes place at the conference center of [Campus Condorcet](https://www.campus-condorcet.fr/en),
 Paris-Aubervilliers, France ([métro line 12](https://en.wikipedia.org/wiki/Front_Populaire_station)). 
 
 ![Photo by Anthony DELANOIX](./img/paris.jpg)
 
 _Photo by [Anthony DELANOIX](https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash){:target="_blank"}_
 
+![Centre de colloques](img/centre-colloques.jpg)
+![Salle 100](img/condorcet-100.jpg)
 
 
 ## Topics specific to Petri Nets
