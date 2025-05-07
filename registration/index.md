@@ -16,7 +16,7 @@ hide_footer: true
 | Authors registration deadline           | __13 April 2025__     |
 | Public early bird registration deadline | __21 May 2025__       |
 | Public late registration deadline (registrations may be closed after) | __8 June 2025__     |
-| Tutorials   | 23-24 June 2025        |
+| Petri Nets course   | 23-24 June 2025        |
 | PNSE Workshop  | 23-24 June 2025          |
 | ATAED Workshop  | 24 June 2025        |
 | PeNGE Workshop  | 24 June 2025        |
@@ -32,7 +32,7 @@ hide_footer: true
 | Full week (2 days workshops + Petri Nets conference) | **650€** | **750€** | **500€**| **600€** |
 | 1-day (Tuesday) workshop + Petri Nets conference | 600€ | 700€ | 450€ | 550€ |
 | Petri Nets conference only | 550€ | 650€ | 400€ | 500€ |
-| 2-day workshops only | 250€ | 300€ | 200€ | 250€ |
+| 2-day workshops/Petri Nets course only | 250€ | 300€ | 200€ | 250€ |
 | 1-day (Tuesday) workshop only | 150€ | 200€ | 120€ | 150€ |
 
 * All registration packages that include the Petri Nets conference also cover
@@ -40,10 +40,10 @@ hide_footer: true
   (Thursday evening). This applies to student registrations as well.
 * The Petri Nets conference gives access to all lunches and coffee breaks
   from June 25 to June 27.
-* The 2-days workshop registration gives access to lunches and
+* The 2-day workshops/Petri Nets course registration gives access to lunches and
   coffee breaks on June 23 and June 24. 
 * The 1-day workshop registration gives access to the lunch and
-  coffee breaks on Jun 24. 
+  coffee breaks on Jun 24.
 
 ### Students registration
 
