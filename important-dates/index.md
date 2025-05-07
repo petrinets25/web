@@ -14,7 +14,7 @@ hide_footer: true
 | Paper submission   | ~~22 January 2025~~ __29 January 2025__        |
 | Notification   | ~~10 March 2025~~ 16 March 2025       |
 | Camera ready   | ~~24 March 2025~~ 30 March 2025        |
-| Tutorials   | 23-24 June 2025        |
+| Petri Nets course   | 23-24 June 2025        |
 | PNSE Workshop  | 23-24 June 2025          |
 | ATAED Workshop  | 24 June 2025        |
 | PeNGE Workshop  | 24 June 2025        |

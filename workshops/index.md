@@ -10,6 +10,8 @@ hide_footer: true
 
 The Petri Net Course is a satellite event of the 46th International Conference on Application and Theory of Petri Nets and Concurrency (Petri Nets 2025). The course offers a thorough introduction to Petri Nets in four half-day modules and two half-day tutorials on applications of Petri Nets and new developments presented by experts in the area.
 
+*23-24 June 2025*
+
 
 ##  [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/)
 
