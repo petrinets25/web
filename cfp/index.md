@@ -53,6 +53,7 @@ package) and submitted electronically (as a PDF file) by the deadline using
 | Petri Nets course   | 23 June 2025        |
 | PNSE Workshop  | 23-24 June 2025        |
 | ATAED Workshop  | 24 June 2025        |
+| PeNGE Workshop  | 24 June 2025        |
 | Tutorials | 24 June 2025        |
 | Main conference   | __25-27 June 2025__        |
 
