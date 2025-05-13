@@ -8,7 +8,7 @@ hide_footer: true
 
 ## Access
 
-Petri Nets 2025, together with all associated events (tutorials, workshops), is located at the **Centre de colloques** (conference center) of **[Campus Condorcet Paris-Aubervilliers](https://www.campus-condorcet.fr/en)**.
+Petri Nets 2025, together with all associated events (Petri Nets course, workshops), is located at the **Centre de colloques** (conference center) of **[Campus Condorcet Paris-Aubervilliers](https://www.campus-condorcet.fr/en)**.
 
 The **Centre de colloques** is located immediately on métro line 12 station **[Front Populaire](https://en.wikipedia.org/wiki/Front_Populaire_station)**.
 

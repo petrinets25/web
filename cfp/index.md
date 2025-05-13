@@ -52,7 +52,7 @@ package) and submitted electronically (as a PDF file) by the deadline using
 | Camera ready   | ~~24 March 2025~~ 30 March 2025        |
 | PNSE Workshop  | 23-24 June 2025        |
 | ATAED Workshop  | 24 June 2025        |
-| Tutorials   | 23-24 June 2025        |
+| Petri nets course   | 23-24 June 2025        |
 | Main conference   | __25-27 June 2025__        |
 
 
@@ -98,14 +98,14 @@ issue of a renowned journal.
 ## Tool Exhibition
 An exhibition of Petri net tools will take place on Wednesday June 25. It consists of informal demonstrations for small groups/individuals and there are no scheduled talks. Requests for participation in the tool exhibition must be sent to the Tool Exhibition chairs by the deadline stated at the top of this Call for Papers. They should include a link to the Web pages for the tool (or a short description of the tool). The demonstrators should bring their own laptops, while the organisers may be requested to give access to the Internet.
 
-## Courses, Workshops and Tutorials
+## Workshops and Petri Nets course
 
 The main conference takes place from Wednesday 25 to Friday 27.
 The two days before the main conference also offer a wide range of activities.
 The Petri Net Course takes place from Monday 23 to Tuesday 24.
 It offers a thorough introduction to Petri nets in half-days and full-day modules.
 For successful participation in the entire course, including preparation and examination, two credit points (ECTS) will be awarded. Each module of the course can also be taken separately, without any credit.
-Detailed descriptions of Workshops and Tutorials will be made available via the conference Web page.
+Detailed descriptions of Workshops and Petri Nets course will be made available via the conference Web page.
 
 It is also possible to arrange Meetings and Courses related to Petri Nets.
 Submissions for such activities must contain a 2-5 page description. They must be received by the Workshops and Tutorials chairs via email no later than January 15, 2025.
