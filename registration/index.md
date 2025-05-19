@@ -44,7 +44,7 @@ hide_footer: true
 * The 2-day workshops/Petri Nets course registration gives access to lunches and
   coffee breaks on June 23 and June 24. 
 * The 1-day workshop registration gives access to the lunch and
-  coffee breaks on Jun 24.
+  coffee breaks on June 24.
 
 ### Students registration
 
