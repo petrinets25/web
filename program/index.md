@@ -22,7 +22,7 @@ hide_footer: true
 | ----------- | ----------- | ----------- |
 | [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Verification and Model Checking of Petri Nets | 8.30 – 10.00 and 10.30 – 12.00 | Room TBA |
 | [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Timed and Stochastic Petri Nets | 13.30 – 15.00 and 15.30 – 17.00 | Room TBA |
-| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | | Room TBA |
+| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | afternoon (tentative) | Room TBA |
 
 
 ### Tuesday 24th June 2025: workshops and tutorials
@@ -31,7 +31,7 @@ hide_footer: true
 | ----------- | ----------- | ----------- |
 | [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Object-centric process modeling and analysis. A short avant-garde journey | 8.30 – 10.00 and 10.30 – 12.00 | Room TBA |
 | [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Modeling Complex Systems with High-level Petri Nets | 13.30 – 15.00 and 15.30 – 17.00  | Room TBA |
-| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | |Room TBA |
+| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | morning (tentative) |Room TBA |
 | [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | | Room TBA |
 | [Model Checking Contest 2025](https://mcc.lip6.fr/) | | Room TBA |
 | [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | | Room TBA |
