@@ -30,11 +30,11 @@ hide_footer: true
 
 | Nature      | Early (full) | Late (full) | Early (student) | Late (student) |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Full week (2 days workshops + Petri Nets conference) | **650€** | **750€** | **500€**| **600€** |
-| 1-day (Tuesday) workshop + Petri Nets conference | 600€ | 700€ | 450€ | 550€ |
-| Petri Nets conference only | 550€ | 650€ | 400€ | 500€ |
-| 2-day workshops/Petri Nets course only | 250€ | 300€ | 200€ | 250€ |
-| 1-day (Tuesday) workshop only | 150€ | 200€ | 120€ | 150€ |
+| Full week (2 days workshops/Petri nets course/tutorials + Petri Nets conference) | **650€** | **750€** | **500€**| **600€** |
+| Petri Nets conference only (Wednesday-Friday) | 550€ | 650€ | 400€ | 500€ |
+| 1-day (Tuesday) workshop + Petri Nets conference (Wednesday-Friday) | 600€ | 700€ | 450€ | 550€ |
+| 2-day workshops/Petri Nets course/tutorials only | 250€ | 300€ | 200€ | 250€ |
+| 1-day (Tuesday) workshop/tutorials only | 150€ | 200€ | 120€ | 150€ |
 
 * All registration packages that include the Petri Nets conference also cover
   the welcome reception (Wednesday evening) and the Petri Nets social dinner
