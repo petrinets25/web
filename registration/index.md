@@ -68,7 +68,7 @@ After registering, please send your supporting documents to the local organizing
 
 ## Registration process
 
-Due to complications and limitations of the CNRS platform "Azur colloques", registration is a _three-step_ process:
+Due to complications and limitations of the user-unfriendly CNRS platform "Azur colloques", registration is a _three-step_ process:
 
 ### Step 1: information
 First, you should fill in a form to express your interests in the workshops (if any), for statistics only, and your dietary restrictions (if any).
@@ -81,6 +81,9 @@ After filling the aforementioned form, your will read the URL of the second form
 
 In that URL, you will find _"Petri Nets 2025"_ in the list of _Open Conferences_.
 Then, click on _"Prerecord"_ to enter your personal information and select the appropriate _Category_ according to the pricing list.
+
+**Payment by credit card is mandatory** (even though the (user-unfriendly) platform will offer you a bank transfer option, which will eventually be rejected by CNRS).
+(Only exception for bank transfer: if you are a member of a French public lab and can pay by _bon de commande_.)
 
 ### Step 3: payment
 Once your pre-registration is validated (which may take up to 48 hours), you
