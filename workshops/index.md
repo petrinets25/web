@@ -16,7 +16,7 @@ The Petri Net Course is a satellite event of the 46th International Conference o
 ##  [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/)
 
 __International Workshop on Petri Nets and Software Engineering__.
-*23-24 June 2025*
+*23 June 2025*
 
 ## [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/)
 
@@ -27,9 +27,9 @@ __Algorithms &amp; Theories for the Analysis of Event Data 2025__.
 
 An event dedicated to the evaluation of model checking tools using Petri Net benchmarks.
 
-## [PeNGE](https://www.fernuni-hagen.de/penge/penge2025/)
+## [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/)
 
-__Petri Net games, examples and quizzes for education, contest and fun__.
+__Petri Net Games, Examples and Quizzes for Education, Contest and Fun __.
 *24 June 2025*
 
 The workshop aims to attract short papers that present examples for the use of
