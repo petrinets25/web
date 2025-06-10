@@ -23,21 +23,31 @@ Exact GPS coordinates: [48.907175 / 2.366427](https://www.openstreetmap.org/node
 * 🚲 [Vélib'](https://www.velib-metropole.fr/en) (Paris self-service bicycle) station 32021 immediately near the conference center
 * 🗺 [Itinerary planner Île-de-France mobilités](https://www.iledefrance-mobilites.fr/en); alternatively, CityMapper is very efficient for itinerary planning in Paris
 
-![Centre de colloques](../img/centre-colloques.jpg)
-![Auditorium](../img/condorcet-auditorium.jpg)
-![Salle 100](../img/condorcet-100.jpg)
-![Centre de colloques](../img/condorcet.jpg)
-
 ### Address
 Centre de colloques<br>
 Campus Condorcet<br>
 Place du Front populaire<br>
 93322 Aubervilliers cedex
 
-### Accommodation
+## Signal group
+If you have any very last minute issues, please feel free to join our Signal group:
+[signal.group](https://signal.group/#CjQKIGJi2HcFzl1wjdh_ybAoBUiYrNml02WyCuZgTmy0b-fiEhD3uoGNrD9ICh2tbrVP6TfY)
+
+![Signal Group QR code](../img/SignalGroupQr.png)
+
+We will try to answer almost immediately to messages posted there, during the whole event.
+
+
+## Accommodation
 
 Due to the variety of the accommodation in Paris (with various prices and comfort levels), we do not recommend any specific hotel.
 
 Hotels located within central Paris along métro line 12 may be a good choice.
 
 For budget accommodation, [UCPA Sport Station Youth Hostel](https://www.ucpa.com/hostel-paris-19/spot) might be a good option (which we have not tested though). It is located in Rosa Parks, a 10 minute bus ride or a 30 minute walk to the conference location.
+
+![Centre de colloques](../img/centre-colloques.jpg)
+![Auditorium](../img/condorcet-auditorium.jpg)
+![Salle 100](../img/condorcet-100.jpg)
+![Centre de colloques](../img/condorcet.jpg)
+
