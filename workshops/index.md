@@ -29,7 +29,7 @@ An event dedicated to the evaluation of model checking tools using Petri Net ben
 
 ## [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/)
 
-__Petri Net Games, Examples and Quizzes for Education, Contest and Fun __.
+__Petri Net Games, Examples and Quizzes for Education, Contest and Funs__.
 *24 June 2025*
 
 The workshop aims to attract short papers that present examples for the use of
