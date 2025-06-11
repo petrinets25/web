@@ -80,9 +80,13 @@ hide_footer: true
 | 14:00-14:30 | | <span class="authors"><span><a href="http://pagesperso.ls2n.fr/~lime-d/">Didier Lime</a>, <a href="http://remiparrot.github.io">Rémi Parrot</a> and <a href="http://pagesperso.ls2n.fr/~roux-o/">Olivier H. Roux</a></span> </span> | Decidability problems for weak Time Petri Nets with read, reset and transfer arcs |
 | 14:30-15:00 | | <span class="authors"><span><a href="http://people.rennes.inria.fr/Loic.Helouet/">Loic Helouet</a>, <a href="http://people.irisa.fr/Nicolas.Markey/">Nicolas Markey</a> and Luca Paparazzo</span> </span> | Energy Transfer in timed cyclic networks |
 | 15:00-15:30 | ☕️_Coffee break_ | | |
-| **15:30-17:30** | **Tool demonstrations** | Chair: Dylan Marinho | |
+| **15:30-16:30** | **Tool demonstrations** | Chair: Dylan Marinho | |
 | | | TBA | TBA |
 | | | TBA | TBA |
+| **16:30-18:00** | **Session 6: Communication & concurrency** | Chair: TBA | |
+| 16:30-17:00 | | <span class="authors"><span><a href="https://www.benedikt-bollig.org">Benedikt Bollig</a>, <a href="https://www.irif.fr/users/mfortin/">Marie Fortin</a> and <a href="http://www.lsv.fr/~gastin/">Paul Gastin</a></span> </span> | High-Level Message Sequence Charts: Satisfiability and Realizability Revisited |
+| 17:00-17:30 | | <span class="authors"><span>Amazigh Amrane, Hugo Bazille, <a href="https://www.lrde.epita.fr/~uli/">Uli Fahrenberg</a>, Loïc Hélouët and Philipp Schlehuber-Caissier</span> </span> | Petri Nets and Higher-Dimensional Automata |
+| 17:30-18:00 | | <span class="authors"><span>Laif-Oke Clasen, Can Nayci and <a href="http://www.informatik.uni-hamburg.de/TGI/moldt/">Daniel Moldt</a></span> </span> | Distributed Reference Net Simulation based on Event Streaming |
 | **19:00-23:00** | 🍽_Conference dinner_ | Paris 14th district | |
 
 
@@ -92,16 +96,12 @@ hide_footer: true
 | ----------- | ----------- | ----------- | ----------- |
 | **09:00-10:00** | **Invited speaker** | **Marco Montali** | Automated Reasoning for Data-Aware Petri Nets |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
-| **10:30-12:00** | **Session 6: Theory of Petri nets** | Chair: TBA | |
+| **10:30-12:00** | **Session 7: Theory of Petri nets** | Chair: TBA | |
 | 10:30-11:00 | | <span class="authors"><a href="http://www.informatik.uni-hamburg.de/TGI/mitarbeiter/profs/valk.html">Rüdiger Valk</a>. </span> | Failure Resilience of strongly synchronized Processes |
 | 11:00-11:30 | | <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> and Raymond Devillers </span> </span> | Persistent Permutations, Fairness, Asymmetric Choice Petri Nets, and Ochmanski's Conjecture |
 | 11:30-12:00 | | <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> , Raymond Devillers and Petr Jancar</span> </span> | Coverability in Well-Formed Free-Choice Nets |
-| 12:00-13:30 | 🥗_Lunch break_ | | |
-| **13:30-15:00** | **Session 7: Communication & concurrency** | Chair: TBA | |
-| 13:30-14:00 | | <span class="authors"><span><a href="https://www.benedikt-bollig.org">Benedikt Bollig</a>, <a href="https://www.irif.fr/users/mfortin/">Marie Fortin</a> and <a href="http://www.lsv.fr/~gastin/">Paul Gastin</a></span> </span> | High-Level Message Sequence Charts: Satisfiability and Realizability Revisited |
-| 14:00-14:30 | | <span class="authors"><span>Amazigh Amrane, Hugo Bazille, <a href="https://www.lrde.epita.fr/~uli/">Uli Fahrenberg</a>, Loïc Hélouët and Philipp Schlehuber-Caissier</span> </span> | Petri Nets and Higher-Dimensional Automata |
-| 14:30-15:00 | | <span class="authors"><span>Laif-Oke Clasen, Can Nayci and <a href="http://www.informatik.uni-hamburg.de/TGI/moldt/">Daniel Moldt</a></span> </span> | Distributed Reference Net Simulation based on Event Streaming |
-| 15:00-15:30 | ☕️_Coffee break_ (?) | | |
+| 12:00-12:30 | | | **Closing session** |
+
 
 
 ## List of all accepted papers (in no particular order)
