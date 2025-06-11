@@ -83,8 +83,9 @@ Download in formats: [PNG](./poster/poster-PN25.png) / [PDF](./poster/poster-PN2
 ## Sponsors
 
 <div class="image-row">
-    <a href="https://www.univ-spn.fr/" target="_blank"><img alt="USPN" src="./img/USPN.png" width="270"></a>
-    <a href="https://lipn.univ-paris13.fr/" target="_blank"><img alt="LIPN" src="./img/LIPN.png" width="200"></a>
-    <a href="https://www.cnrs.fr/fr" target="_blank"><img alt="CNRS" src="./img/CNRS.png" width="145"></a>
-    <a href="https://www.mefosyloma.fr/" target="_blank"><img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" width="200"></a>
+    <a href="https://www.univ-spn.fr/"><img alt="USPN" src="./img/USPN.png" height="200"></a>
+    <a href="https://lipn.univ-paris13.fr/"><img alt="LIPN" src="./img/LIPN.png" height="200"></a>
+    <a href="https://www.cnrs.fr/fr"><img alt="CNRS" src="./img/CNRS.png" height="200"></a>
+    <a href="https://www.mefosyloma.fr/"><img alt="MeFoSyLoMa" src="./img/MeFoSyLoMa.png" height="200"></a>
+    <a href="https://www.campus-condorcet.fr/"><img alt="Campus Condorcet" src="./img/Logo-Condorcet_RVB-FondBlanc.png" height="200"></a>
 </div>
