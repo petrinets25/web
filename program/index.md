@@ -61,7 +61,7 @@ hide_footer: true
 | 16:00-16:30 | | <span class="authors"><span>Priyanka Kamboj, Cyrille Artho, Roberto Guanciale, Reyhaneh Jabbarvand and Brighten Godfrey</span> </span> | Leveraging Petri Nets for Workflow Anomaly Detection in Microservice Architectures |
 | 16:30-17:00 | | <span class="authors"><span>Ariba Siddiqui, <a href="http://www.vdaalst.com">Wil van der Aalst</a> and Daniel Schuster</span> </span>  | Computing Alignments for Partially-ordered Traces Through Petri Net Unfoldings |
 | 17:00-17:30 | | <span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span> </span> | Enjoy the Silence, Part II: Probability-Based Queries on Stochastic Labelled Petri Nets |
-| 19:00-20:30 | 🍸_Welcome reception_ | (to be confirmed) | |
+| 18:30-20:00 | 🍸_Welcome reception_ | | |
 
 
 ### Thursday 26th June 2025: main conference
