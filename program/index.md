@@ -31,7 +31,7 @@ hide_footer: true
 | ----------- | ----------- | ----------- |
 | [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Object-centric process modeling and analysis. A short avant-garde journey | 8.30 – 10.00 and 10.30 – 12.00 | Salle 100 |
 | [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Modeling Complex Systems with High-level Petri Nets | 13.30 – 15.00 and 15.30 – 17.00  | Salle 100 |
-| [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | 13:45 - 15:00 and 15:30 - 17:00 | Room 3.01 |
+| [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | 13:45 - 15:00 and 15:30 - 17:00 | Room 3.02 |
 | [Model Checking Contest 2025](https://mcc.lip6.fr/) | 13.30 – 15.00 | Room 3.01 |
 | [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | 09.00 – 10.00 and 10.30 – 12.00| Room 3.01 |
 | Steering committee meeting *(by invitation)* | 16.00 – 17.30 | Room 3.01 |
