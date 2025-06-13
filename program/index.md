@@ -94,7 +94,7 @@ hide_footer: true
 
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
-| **09:00-10:00** | **Invited speaker** | **Marco Montali**(Chair: Łukasz Mikulski) | **Automated Reasoning for Data-Aware Petri Nets** |
+| **09:00-10:00** | **Invited speaker** | **Marco Montali**<br>(Chair: Łukasz Mikulski) | **Automated Reasoning for Data-Aware Petri Nets** |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 7: Theory of Petri nets** | Chair: Marta Pietkiewicz-Koutny | |
 | 10:30-11:00 | | <span class="authors"><a href="http://www.informatik.uni-hamburg.de/TGI/mitarbeiter/profs/valk.html">Rüdiger Valk</a>. </span> | Failure Resilience of strongly synchronized Processes |
