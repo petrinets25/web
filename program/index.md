@@ -43,8 +43,8 @@ hide_footer: true
 | Time | Session      | Authors | Paper |
 | ----------- | ----------- | ----------- | ----------- |
 | 08:15-8:45 | 📑Registration | | |
-| **08:45-09:00** | 🗣Opening | | |
-| **09:00-10:00** | **Invited speaker** | **Dirk Beyer** | The Transformation Game: Joining Forces for Verification |
+| **08:45-09:00** | 🗣Opening | Elvio Amparore and Łukasz Mikulski | |
+| **09:00-10:00** | **Invited speaker** | **Dirk Beyer** <br>Chair: Étienne André | The Transformation Game: Joining Forces for Verification |
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 1: Composition & Synthesis** | Chair: TBA | |
 | 10:30-11:00 | | <span class="authors"><span><a href="https://www.haw-hamburg.de/michael-koehler-bussmeier">Michael Köhler-Bußmeier</a> and Lorenzo Capra</span> </span>  | Analysing Probabilistic Hornets |
