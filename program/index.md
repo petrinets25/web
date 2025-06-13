@@ -20,22 +20,22 @@ hide_footer: true
 
 | Event      | Schedule | Location |
 | ----------- | ----------- | ----------- |
-| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Verification and Model Checking of Petri Nets | 8.30 – 10.00 and 10.30 – 12.00 | Room TBA |
-| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Timed and Stochastic Petri Nets | 13.30 – 15.00 and 15.30 – 17.00 | Room TBA |
-| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | 8.30 – 10.00 and 10.30 – 12.00 and 13.30 – 15.00 and 15.30 – 17.00 (tentative) | Room TBA |
+| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Verification and Model Checking of Petri Nets | 8.30 – 10.00 and 10.30 – 12.00 | Room 3.01 |
+| [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Timed and Stochastic Petri Nets | 13.30 – 15.00 and 15.30 – 17.00 | Room 3.01 |
+| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | 8.30 – 10.00 and 10.30 – 12.00 and 13.30 – 15.00 and 15.30 – 17.00 (tentative) | Salle 100 |
 
 
 ### Tuesday 24th June 2025: workshops and tutorials
 
 | Event      | Schedule | Location |
 | ----------- | ----------- | ----------- |
-| [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Object-centric process modeling and analysis. A short avant-garde journey | 8.30 – 10.00 and 10.30 – 12.00 | Room TBA |
-| [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Modeling Complex Systems with High-level Petri Nets | 13.30 – 15.00 and 15.30 – 17.00  | Room TBA |
-| [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | 13:45 - 15:00 and 15:30 - 17:00 | Room TBA |
-| [Model Checking Contest 2025](https://mcc.lip6.fr/) | 13.30 – 15.00 | Room TBA |
-| [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | 09.00 – 10.00 and 10.30 – 12.00| Room TBA |
-| Steering committee meeting *(by invitation)* | 16.00 – 17.30 | Room TBA |
-| Steering committee dinner *(by invitation)* | 19.00 – … | Central Paris (TBA) |
+| [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Object-centric process modeling and analysis. A short avant-garde journey | 8.30 – 10.00 and 10.30 – 12.00 | Salle 100 |
+| [Tutorial](https://www.fernuni-hagen.de/pnc/pnc2025/): Modeling Complex Systems with High-level Petri Nets | 13.30 – 15.00 and 15.30 – 17.00  | Salle 100 |
+| [ATAED 2025](https://www.fernuni-hagen.de/ataed/ataed2025/) | 13:45 - 15:00 and 15:30 - 17:00 | Room 3.01 |
+| [Model Checking Contest 2025](https://mcc.lip6.fr/) | 13.30 – 15.00 | Room 3.01 |
+| [PeNGE 2025](https://www.fernuni-hagen.de/penge/penge2025/) | 09.00 – 10.00 and 10.30 – 12.00| Room 3.01 |
+| Steering committee meeting *(by invitation)* | 16.00 – 17.30 | Room 3.01 |
+| Steering committee dinner *(by invitation)* | 19.00 – … | Rue d'Odessa, 75014 Paris |
 
 
 ### Wednesday 25th June 2025: main conference
@@ -81,7 +81,7 @@ hide_footer: true
 | 14:30-15:00 | | <span class="authors"><span><a href="http://people.rennes.inria.fr/Loic.Helouet/">Loic Helouet</a>, <a href="http://people.irisa.fr/Nicolas.Markey/">Nicolas Markey</a> and Luca Paparazzo</span> </span> | Energy Transfer in timed cyclic networks |
 | 15:00-16:00 | ☕️_Coffee break and tool demos_ | | |
 | **15:00-16:00** | **Tool demonstrations** | Chair: Dylan Marinho | |
-| | | TBA | TBA |
+| | | Sander Leemans | [Ebi - a stochastic process mining tool](https://bpm.rwth-aachen.de/ebi/)  |
 | | | TBA | TBA |
 | **16:00-17:30** | **Session 6: Communication & concurrency** | Chair: TBA | |
 | 16:00-16:30 | | <span class="authors"><span><a href="https://www.benedikt-bollig.org">Benedikt Bollig</a>, <a href="https://www.irif.fr/users/mfortin/">Marie Fortin</a> and <a href="http://www.lsv.fr/~gastin/">Paul Gastin</a></span> </span> | High-Level Message Sequence Charts: Satisfiability and Realizability Revisited |
