@@ -8,8 +8,6 @@ hide_footer: true
 
 # Environment 🌱
 
-🚧 **page still in progress** 🚧
-
 Petri Nets 2025 will try to reduce as much as possible its carbon footprint.
 Here are some actions we take:
 
@@ -19,5 +17,5 @@ Here are some actions we take:
 * 🥤 Participants will be offered a reusable cup, and are encouraged to use it during and after the conference.
 * 🧰 We will not offer any disposable goodie.
 * 🗒 Notepads will not be provided by default (some should be available on request though).
-* 🥙 We will provide a large vegetarian offer, and encourage participants to go for such vegetarian options.
+* 🥙 We will provide a large vegetarian offer, and encourage participants to go for such vegetarian options. At least one meal will be fully vegetarian.
 * 📚 Sadly, we were not allowed to go for only _online_ proceedings, therefore wasting a lot of paper, considering most participants will never open the paper proceedings.
