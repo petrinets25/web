@@ -22,7 +22,7 @@ hide_footer: true
 | ----------- | ----------- | ----------- |
 | [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Verification and Model Checking of Petri Nets | 8.30 – 10.00 and 10.30 – 12.00 | Room 3.01 |
 | [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Timed and Stochastic Petri Nets | 13.30 – 15.00 and 15.30 – 17.00 | Room 3.01 |
-| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | 8.30 – 10.00 and 10.30 – 12.00 and 13.30 – 15.00 and 15.30 – 17.00 (tentative) | Salle 100 |
+| [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | 8.30 – 10.00 and 10.30 – 12.00 and 13.30 – 15.00 and 15.30 – 17.00 | Salle 100 |
 
 
 ### Tuesday 24th June 2025: workshops and tutorials
