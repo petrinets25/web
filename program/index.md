@@ -82,6 +82,7 @@ hide_footer: true
 | 15:00-16:00 | ☕️_Coffee break and tool demos_ | | |
 | **15:00-16:00** | **Tool demonstrations** | Chair: Dylan Marinho | |
 | | | Sander Leemans | [Ebi - a stochastic process mining tool](https://bpm.rwth-aachen.de/ebi/)  |
+| | | Jakub Kovar  | [I ❤ Petri Nets](https://www.fernuni-hagen.de/ilovepetrinets/) (website) |
 | | | TBA | TBA |
 | **16:00-17:30** | **Session 6: Communication & concurrency** | Chair: Lars Michael Kristensen | |
 | 16:00-16:30 | | <span class="authors"><span><a href="https://www.benedikt-bollig.org">Benedikt Bollig</a>, <a href="https://www.irif.fr/users/mfortin/">Marie Fortin</a> and <a href="http://www.lsv.fr/~gastin/">Paul Gastin</a></span> </span> | High-Level Message Sequence Charts: Satisfiability and Realizability Revisited |
