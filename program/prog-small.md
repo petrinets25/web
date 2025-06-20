@@ -6,16 +6,6 @@ show_sidebar: false
 hide_footer: true
 ---
 
-# Program
-
-## Day-by-day program
-
-
-### Until Monday 23rd June 2025: Petri net course
-* video lecture by Jörg Desel: **[Basic Net Classes](https://www.fernuni-hagen.de/pnc/pnc2025/)**
-* video lecture by Lars Michael Kristensen: **[Coloured Petri Nets and the CPN Tools ](https://www.fernuni-hagen.de/pnc/pnc2025/)**
-
-
 ### Monday 23rd June 2025: workshops and Petri net course
 
 | Event      | Schedule | Location |
@@ -64,9 +54,6 @@ hide_footer: true
 | 12:00-13:30 | 🥗_Lunch break_ | | |
 | **13:30-15:00** | **Session 5: Timed and Stochastic Petri nets** | Chair: Andrey Rivkin | |
 | **15:00-16:00** | **Tool demonstrations** | Chair: Dylan Marinho | |
-| | | Sander Leemans | [Ebi - a stochastic process mining tool](https://bpm.rwth-aachen.de/ebi/)  |
-| | | Jakub Kovar  | [I ❤ Petri Nets](https://www.fernuni-hagen.de/ilovepetrinets/) (website) |
-| | | TBA | TBA |
 | **16:00-17:30** | **Session 6: Communication & concurrency** | Chair: Lars Michael Kristensen | |
 | **19:00-23:00** | 🍽_Conference dinner_ | Paris 14th district | |
 
