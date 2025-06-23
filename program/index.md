@@ -23,6 +23,7 @@ hide_footer: true
 | [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Verification and Model Checking of Petri Nets | 8.30 – 10.00 and 10.30 – 12.00 | Room 3.01 |
 | [Petri Net Course](https://www.fernuni-hagen.de/pnc/pnc2025/): Timed and Stochastic Petri Nets | 13.30 – 15.00 and 15.30 – 17.00 | Room 3.01 |
 | [PNSE 2025](https://www.informatik.uni-hamburg.de/TGI/events/pnse/pnse25/) | 8.30 – 10.00 and 10.30 – 12.00 and 13.30 – 15.00 and 15.30 – 17.00 | Salle 100 |
+| 17:00-… | 🍸PNSE posters and cocktail *(open to everyone)* | Forum |
 
 
 ### Tuesday 24th June 2025: workshops and tutorials
@@ -74,7 +75,7 @@ hide_footer: true
 | 10:30-11:00 | |  <span class="authors">Lukas Zech. </span> | Symbolic Model Checking in the Modular State Space using Binary Decision Diagrams |
 | 11:00-11:30 | |  <span class="authors"><span>Yann Thierry-Mieg, <a href="http://www.lrde.epita.fr/~adl">Alexandre Duret-Lutz</a> and <a href="http://lip6.fr/Denis.Poitrenaud">Denis Poitrenaud</a></span> </span>  | Simplifying LTL Model-Checking Given Prior Knowledge |
 | 11:30-12:00 | | <span class="authors"><span><a href="https://www.linkedin.com/in/baptiste-pelletier-357b87166">Baptiste Pelletier</a>, Charles Lesire and Karen Godary-Dejean</span> </span> | SkiNet: a User-Oriented Tool for Petri Net-based Analysis of Robotic Skills |
-| 12:00-13:30 | 🥗_Lunch break_ | | |
+| 12:00-13:30 | 🥗_Lunch break (vegetarian)_ | | |
 | **13:30-15:00** | **Session 5: Timed and Stochastic Petri nets** | Chair: Andrey Rivkin | |
 | 13:30-14:00 | | <span class="authors"><span>Tanguy Dubois, Kim Guldstrand Larsen and <a href="http://www.cs.aau.dk/~srba">Jiri Srba</a></span> </span> | Statistical Model Checking of Stochastic Timed-Arc Petri Nets |
 | 14:00-14:30 | | <span class="authors"><span><a href="http://pagesperso.ls2n.fr/~lime-d/">Didier Lime</a>, <a href="http://remiparrot.github.io">Rémi Parrot</a> and <a href="http://pagesperso.ls2n.fr/~roux-o/">Olivier H. Roux</a></span> </span> | Decidability problems for weak Time Petri Nets with read, reset and transfer arcs |
