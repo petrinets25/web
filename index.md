@@ -16,7 +16,7 @@ from Laboratoire d'Informatique de Paris Nord ([LIPN](https://lipn.univ-paris13.
 jointly
 with members of the [MeFoSyLoMa](https://www.mefosyloma.fr) group. 
 
-The conference takes place at the conference center of [Campus Condorcet](access/),
+The conference takes place at the conference center of **[Campus Condorcet](access/)**,
 Paris-Aubervilliers, France ([métro line 12](https://en.wikipedia.org/wiki/Front_Populaire_station)). 
 
 ![Photo by Anthony DELANOIX](./img/paris.jpg)
