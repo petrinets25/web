@@ -8,6 +8,13 @@ hide_footer: true
 
 # Program
 
+## Proceedings
+
+The proceedings of the Petri Nets main conference can be accessed via the Springer Web site below:
+
+[![Springer proceedings](../img/proc.png)](https://link.springer.com/book/10.1007/978-3-031-94634-9)
+
+
 ## Day-by-day program
 
 
