@@ -65,10 +65,10 @@ The proceedings of the Petri Nets main conference can be accessed via the Spring
 | 14:30-15:00 | | <span class="authors"><span>Humam Kourani, Gyunam Park and Wil van der Aalst</span> </span>  | Translating Workflow Nets into the Partially Ordered Workflow Language |
 | 15:00-15:30 | ☕️_Coffee break_ | | |
 | 15:30-17:30 | **Session 3: Process Mining** | Chair: Michael Köhler-Bußmeier ||
-| 15:30-16:00 | | <span class="authors"><span><a href="http://adambanham.io">Adam Banham</a>, Yannis Bertrand, Robert Andrews, <a href="http://staff.qut.edu.au/staff/m.wynn">Moe Wynn</a> and <a href="http://leemans.ch">Sander J.J. Leemans</a></span> </span>  | Discovering the Influence of Exogenous Data on Decisions in Processes |
+| 15:30-16:00 | | <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> and Raymond Devillers </span> </span> | Persistent Permutations, Fairness, Asymmetric Choice Petri Nets, and Ochmanski's Conjecture |
 | 16:00-16:30 | | <span class="authors"><span>Priyanka Kamboj, Cyrille Artho, Roberto Guanciale, Reyhaneh Jabbarvand and Brighten Godfrey</span> </span> | Leveraging Petri Nets for Workflow Anomaly Detection in Microservice Architectures |
 | 16:30-17:00 | | <span class="authors"><span>Ariba Siddiqui, <a href="http://www.vdaalst.com">Wil van der Aalst</a> and Daniel Schuster</span> </span>  | Computing Alignments for Partially-ordered Traces Through Petri Net Unfoldings |
-| 17:00-17:30 | | <span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span> </span> | Enjoy the Silence, Part II: Probability-Based Queries on Stochastic Labelled Petri Nets |
+| 17:00-17:30 | | <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> , Raymond Devillers and Petr Jancar</span> </span> | Coverability in Well-Formed Free-Choice Nets |
 | 18:30-20:00 | 🍸_Welcome reception_ | | |
 
 
@@ -107,8 +107,8 @@ The proceedings of the Petri Nets main conference can be accessed via the Spring
 | 10:00-10:30 | ☕️_Coffee break_ | | |
 | **10:30-12:00** | **Session 7: Theory of Petri nets** | Chair: Marta Pietkiewicz-Koutny | |
 | 10:30-11:00 | | <span class="authors"><a href="http://www.informatik.uni-hamburg.de/TGI/mitarbeiter/profs/valk.html">Rüdiger Valk</a>. </span> | Failure Resilience of strongly synchronized Processes |
-| 11:00-11:30 | | <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> and Raymond Devillers </span> </span> | Persistent Permutations, Fairness, Asymmetric Choice Petri Nets, and Ochmanski's Conjecture |
-| 11:30-12:00 | | <span class="authors"><span><a href="https://uol.de/parsys/kontakte/best">Eike Best</a> , Raymond Devillers and Petr Jancar</span> </span> | Coverability in Well-Formed Free-Choice Nets |
+| 11:00-11:30 | | <span class="authors"><span><a href="http://adambanham.io">Adam Banham</a>, Yannis Bertrand, Robert Andrews, <a href="http://staff.qut.edu.au/staff/m.wynn">Moe Wynn</a> and <a href="http://leemans.ch">Sander J.J. Leemans</a></span> </span>  | Discovering the Influence of Exogenous Data on Decisions in Processes |
+| 11:30-12:00 | | <span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span> </span> | Enjoy the Silence, Part II: Probability-Based Queries on Stochastic Labelled Petri Nets |
 | 12:00-12:30 | | | **Closing session** |
 
 
