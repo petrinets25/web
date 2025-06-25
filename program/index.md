@@ -96,7 +96,7 @@ The proceedings of the Petri Nets main conference can be accessed via the Spring
 | 16:00-16:30 | | <span class="authors"><span><a href="https://www.benedikt-bollig.org">Benedikt Bollig</a>, <a href="https://www.irif.fr/users/mfortin/">Marie Fortin</a> and <a href="http://www.lsv.fr/~gastin/">Paul Gastin</a></span> </span> | High-Level Message Sequence Charts: Satisfiability and Realizability Revisited |
 | 16:30-17:00 | | <span class="authors"><span>Amazigh Amrane, Hugo Bazille, <a href="https://www.lrde.epita.fr/~uli/">Uli Fahrenberg</a>, Loïc Hélouët and Philipp Schlehuber-Caissier</span> </span> | Petri Nets and Higher-Dimensional Automata |
 | 17:00-17:30 | | <span class="authors"><span>Laif-Oke Clasen, Can Nayci and <a href="http://www.informatik.uni-hamburg.de/TGI/moldt/">Daniel Moldt</a></span> </span> | Distributed Reference Net Simulation based on Event Streaming |
-| **19:00-23:00** | 🍽_Conference dinner_ | Paris 14th district | |
+| **19:00-23:00** | 🍽_Conference dinner_ | [La Coupole](https://www.lacoupole-paris.com/). 102 Boulevard du Montparnasse 75014 | |
 
 
 ### Friday 27th June 2025: main conference
