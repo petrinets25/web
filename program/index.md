@@ -84,7 +84,7 @@ The proceedings of the Petri Nets main conference can be accessed via the Spring
 | 11:30-12:00 | | <span class="authors"><span><a href="https://www.linkedin.com/in/baptiste-pelletier-357b87166">Baptiste Pelletier</a>, Charles Lesire and Karen Godary-Dejean</span> </span> | SkiNet: a User-Oriented Tool for Petri Net-based Analysis of Robotic Skills |
 | 12:00-13:30 | 🥗_Lunch break (vegetarian)_ | | |
 | **13:30-15:00** | **Session 5: Timed and Stochastic Petri nets** | Chair: Andrey Rivkin | |
-| 13:30-14:00 | | <span class="authors"><span>Tanguy Dubois, Kim Guldstrand Larsen and <a href="http://www.cs.aau.dk/~srba">Jiri Srba</a></span> </span> | Statistical Model Checking of Stochastic Timed-Arc Petri Nets |
+| 13:30-14:00 | | <span class="authors"><span>Tanguy Dubois, Kim Guldstrand Larsen and <a href="http://www.cs.aau.dk/~srba">Jiří Srba</a></span> </span> | Statistical Model Checking of Stochastic Timed-Arc Petri Nets<br><b>🏆 Best paper award</b> |
 | 14:00-14:30 | | <span class="authors"><span><a href="http://pagesperso.ls2n.fr/~lime-d/">Didier Lime</a>, <a href="http://remiparrot.github.io">Rémi Parrot</a> and <a href="http://pagesperso.ls2n.fr/~roux-o/">Olivier H. Roux</a></span> </span> | Decidability problems for weak Time Petri Nets with read, reset and transfer arcs |
 | 14:30-15:00 | | <span class="authors"><span><a href="http://people.rennes.inria.fr/Loic.Helouet/">Loic Helouet</a>, <a href="http://people.irisa.fr/Nicolas.Markey/">Nicolas Markey</a> and Luca Paparazzo</span> </span> | Energy Transfer in timed cyclic networks |
 | 15:00-16:00 | ☕️_Coffee break and tool demos_ | | |
