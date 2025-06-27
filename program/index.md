@@ -109,6 +109,7 @@ The proceedings of the Petri Nets main conference can be accessed via the Spring
 | 11:00-11:30 | | <span class="authors"><span><a href="http://adambanham.io">Adam Banham</a>, Yannis Bertrand, Robert Andrews, <a href="http://staff.qut.edu.au/staff/m.wynn">Moe Wynn</a> and <a href="http://leemans.ch">Sander J.J. Leemans</a></span> </span>  | Discovering the Influence of Exogenous Data on Decisions in Processes |
 | 11:30-12:00 | | <span class="authors"><span><a href="http://leemans.ch">Sander J.J. Leemans</a>, <a href="http://www.inf.unibz.it/~montali/">Marco Montali</a>, Timo Gersing, Felix Engelhardt and <a href="http://www.win.tue.nl/~sidorova/">Natalia Sidorova</a></span> </span> | Enjoy the Silence, Part II: Probability-Based Queries on Stochastic Labelled Petri Nets |
 | 12:00-12:30 | | | **Closing session** |
+| 12:30-13:30 | 🥗_Lunch break and German specialties_ | | |
 
 
 
