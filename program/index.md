@@ -14,6 +14,9 @@ The proceedings of the Petri Nets main conference can be accessed via the Spring
 
 [![Springer proceedings](../img/proc.png)](https://link.springer.com/book/10.1007/978-3-031-94634-9)
 
+## 🏆Best paper award 
+<span class="authors"><span>Tanguy Dubois, Kim Guldstrand Larsen and <a href="http://www.cs.aau.dk/~srba">Jiří Srba</a></span> 
+</span>:  Statistical Model Checking of Stochastic Timed-Arc Petri Nets.
 
 ## Day-by-day program
 
